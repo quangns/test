@@ -1,10 +1,16 @@
 $ git remote rename origin gitlab
-Tạo file script, viết code & commit
+
+#Tạo file script, viết code & commit
+
 $ echo "print 'Hello world!'" > hello_world.py
+
 $ git add hello_world.py
+
 $ git commit -m "Add: Hello world script"
+
 $ git push -u origin master
-Mấy lệnh git hay dùng
+
+#Mấy lệnh git hay dùng
 
 # Lấy code mới về
 $ git pull --rebase gitlab master
