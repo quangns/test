@@ -1,0 +1,35 @@
+---
+
+
+- name: Install Supervisor
+  become: yes
+  become_user: root
+  apt: name=supervisor state=installed
+
+
+- name: restart Supervisor
+  become: yes
+  become_user: root
+  service: name=supervisor state=restarted
+
+
+- name: copy supervisor_nginx
+  copy: src=/opt/ansible/supervisor.conf/nginx dest=/etc/supervisor/conf.d/nginx.conf
+  become: yes
+  become_user: root
+
+
+- name: copy supervisor redis
+  copy: src=/opt/ansible/supervisor.conf/redis dest=/etc/supervisor/conf.d/redis.conf
+  become: yes
+  become_user: root
+
+
+- name: Add service supervisor
+  shell: supervisorctl reread
+  become: yes
+
+
+- name: update service supervisor
+  shell: supervisorctl update
+  become: yes

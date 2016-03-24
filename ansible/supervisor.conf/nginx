@@ -1,0 +1,4 @@
+[program:supervisor_nginx]
+command = /usr/sbin/nginx
+stdout_events_enabled = true
+stderr_events_enabled = true

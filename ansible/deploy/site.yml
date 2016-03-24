@@ -1,0 +1,13 @@
+---
+
+
+- name: Install Nginx, Redis, Flask
+  become: yes
+  become_user: root
+  hosts: nginx-server
+  roles:
+    - redis
+    - flask
+    - nginx
+    - supervisor
+    

@@ -1,0 +1,34 @@
+---
+
+
+- name: install tcl8.5
+  become: yes
+  apt: pkg={{ item }} state=installed
+  with_items:
+    - build-essential
+    - tcl8.5
+
+
+- name: download redis
+  become: yes
+  become_user: root
+  get_url: url=http://download.redis.io/redis-stable.tar.gz dest=/opt/
+
+
+- name: unarchive redis
+  become: yes
+  unarchive: src=/opt/redis-stable.tar.gz dest=/opt/ copy=no
+
+
+- name: make
+  become: yes
+  become_user: root
+  shell: chdir=/opt/redis-stable/src make
+  shell: chdir=/opt/redis-stable/src make test
+  shell: chdir=/opt/redis-stable/src make install
+
+
+- name: copy config redis
+  become: yes
+  become_user: root
+  copy: src=/opt/ansible/deploy/roles/redis/redis.conf dest=/etc/redis 
