@@ -9,16 +9,18 @@
     - tcl8.5
 
 
-- name: download redis
-  become: yes
-  become_user: root
-  get_url: url=http://download.redis.io/redis-stable.tar.gz dest=/opt/
-
+- name: check file redis-stable
+  stat: path=/opt/redis-stable
+  register: check_redis
+  tags:
+    - redis
 
 - name: unarchive redis
   become: yes
-  unarchive: src=/opt/redis-stable.tar.gz dest=/opt/ copy=no
-
+  unarchive: src=http://download.redis.io/redis-stable.tar.gz dest=/opt/ copy=no
+  when: check_redis.stat.exists == false
+  tags:
+    - redis
 
 - name: make
   become: yes

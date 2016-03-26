@@ -9,5 +9,4 @@
     - redis
     - flask
     - nginx
-    - supervisor
-    
+    - supervisor  
