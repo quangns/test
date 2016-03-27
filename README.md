@@ -1,3 +1,5 @@
+$ git clone https://github.com/quangns/test
+
 $ git remote rename origin gitlab
 
 #Tạo file script, viết code & commit
