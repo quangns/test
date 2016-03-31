@@ -1,12 +1,6 @@
 ---
 
 
-- name: update
-  become: yes
-  become_user: root
-  apt: update_cache=yes
-
-
 - name: Install python-pip
   apt: name=python-pip state=installed
   become: yes
@@ -18,13 +12,14 @@
   become: yes
   become_user: root
   tags:
-     - flask
+    - flask
 
 - name: Install python-redis
   become: yes
   become_user: root
   apt: name=python-redis state=installed
-
+  tags:
+    - flask
 
 - name: copy bai4
   become: yes

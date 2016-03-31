@@ -1,12 +1,21 @@
 ---
 
 
+- name: update
+  become: yes
+  become_user: root
+  apt: update_cache=yes
+
+
 - name: install tcl8.5
   become: yes
+  become_user: root
   apt: pkg={{ item }} state=installed
   with_items:
     - build-essential
     - tcl8.5
+  tags:
+    - tcl
 
 
 - name: check file redis-stable
@@ -15,6 +24,7 @@
   tags:
     - redis
 
+
 - name: unarchive redis
   become: yes
   unarchive: src=http://download.redis.io/redis-stable.tar.gz dest=/opt/ copy=no
@@ -22,15 +32,41 @@
   tags:
     - redis
 
+
 - name: make
   become: yes
   become_user: root
   shell: chdir=/opt/redis-stable/src make
   shell: chdir=/opt/redis-stable/src make test
   shell: chdir=/opt/redis-stable/src make install
+  tags:
+    - redis
+
+
+- name: make directory
+  become: yes
+  become_user: root
+  file: path=/etc/redis state=directory
+  file: path=/etc/redis state=directory
+  tags:
+    - make
+
+
+- name: utils
+  become: yes
+  become_user: root
+  copy: src=/opt/redis-stable/utils/redis_init_script dest=/etc/init.d/redis_6379 remote_src=True
 
 
 - name: copy config redis
   become: yes
   become_user: root
-  copy: src=/opt/ansible/deploy/roles/redis/redis.conf dest=/etc/redis 
+  copy: src=/opt/ansible/deploy/roles/redis/redis.conf dest=/etc/redis/6379.conf
+  tags:
+    - redis.conf 
+
+
+- name: mkdir /var/redis/6379
+  become: yes
+  become_user: root
+  file: path=/var/redis/6379 state=directory

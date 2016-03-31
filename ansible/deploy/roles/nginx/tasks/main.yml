@@ -13,13 +13,13 @@
   copy: src=/opt/ansible/deploy/roles/nginx/nginx.conf/
         dest=/etc/nginx/sites-available/reverse.conf
   tags:
-    - nginx
+    - nginx-ck
 
 
 - stat: path=/etc/nginx/sites-enabled/
   register: st
   tags:
-    - nginx-rm
+    - nginx-ck
 
 - name: remove file default
   become: yes
@@ -27,7 +27,7 @@
   when: st |changed
   shell: sudo rm /etc/nginx/sites-enabled/default/
   tags:
-    - nginx-rm
+    - nginx-ck
 
 
 - name: check file existed
