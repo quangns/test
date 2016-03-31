@@ -1,4 +1,4 @@
 [program:supervisor_redis]
-command = /etc/init.d/redis-server start
+command = /etc/init.d/redis_6379 start
 user = root
 autorestart = false

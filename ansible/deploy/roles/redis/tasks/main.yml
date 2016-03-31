@@ -1,12 +1,6 @@
 ---
 
 
-- name: update
-  become: yes
-  become_user: root
-  apt: update_cache=yes
-
-
 - name: install tcl8.5
   become: yes
   become_user: root
@@ -15,14 +9,14 @@
     - build-essential
     - tcl8.5
   tags:
-    - tcl
+    - redis
 
 
 - name: check file redis-stable
   stat: path=/opt/redis-stable
   register: check_redis
   tags:
-    - redis
+    - redis-dl
 
 
 - name: unarchive redis
@@ -30,32 +24,33 @@
   unarchive: src=http://download.redis.io/redis-stable.tar.gz dest=/opt/ copy=no
   when: check_redis.stat.exists == false
   tags:
-    - redis
+    - redis-dl
 
 
 - name: make
   become: yes
   become_user: root
-  shell: chdir=/opt/redis-stable/src make
+  shell: make
   shell: chdir=/opt/redis-stable/src make test
-  shell: chdir=/opt/redis-stable/src make install
+  shell: chdir=/opt/redis-stable/src sudo make install
   tags:
-    - redis
+    - redis-dl
 
 
 - name: make directory
   become: yes
   become_user: root
-  file: path=/etc/redis state=directory
-  file: path=/etc/redis state=directory
+  file: path=/etc/redis state=directory mode=0775
   tags:
-    - make
+    - redis-mk
 
 
 - name: utils
   become: yes
   become_user: root
-  copy: src=/opt/redis-stable/utils/redis_init_script dest=/etc/init.d/redis_6379 remote_src=True
+  copy: src=/opt/redis-stable/utils/redis_init_script dest=/etc/init.d/redis_6379 remote_src=True mode="u+x,o+x,g+x"
+  tags:
+    - redis
 
 
 - name: copy config redis
@@ -63,10 +58,20 @@
   become_user: root
   copy: src=/opt/ansible/deploy/roles/redis/redis.conf dest=/etc/redis/6379.conf
   tags:
-    - redis.conf 
+    - redis 
 
 
 - name: mkdir /var/redis/6379
   become: yes
   become_user: root
   file: path=/var/redis/6379 state=directory
+  tags:
+    - redis
+
+
+- name: update
+  become: yes
+  become_user: root
+  shell: sudo update-rc.d redis_6379 defaults
+  tags:
+    - redis
