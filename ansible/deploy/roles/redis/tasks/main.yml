@@ -1,6 +1,11 @@
 ---
 
 
+- name: update
+  become_user: root
+  apt: update_cache=yes
+
+
 - name: install tcl8.5
   become: yes
   become_user: root
@@ -9,7 +14,7 @@
     - build-essential
     - tcl8.5
   tags:
-    - redis
+    - redis-dl
 
 
 - name: check file redis-stable
