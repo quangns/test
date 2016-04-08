@@ -8,7 +8,17 @@
   tags:
     - nginx-ck
 
-- name: Copy file config
+
+- name: copy file nginx.conf
+  become: yes
+  become_user: yes
+  copy: src=/opt/ansible/deploy/roles/nginx/nginx.conf/
+        dest=/etc/nginx/nginx.conf
+  tags:
+    - nginx-ck
+
+
+- name: Copy file reverse
   become: yes
   copy: src=/opt/ansible/deploy/roles/nginx/reverse/
         dest=/etc/nginx/sites-available/reverse
