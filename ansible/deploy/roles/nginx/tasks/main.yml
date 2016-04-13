@@ -6,16 +6,18 @@
   become_user: root
   apt: name=nginx state=latest
   tags:
-    - nginx-ck
+    - nginx
 
 
 - name: copy file nginx.conf
   become: yes
   become_user: root
-  copy: src=/opt/ansible/deploy/roles/nginx/nginx.conf/
+  copy: src=/opt/ansible/deploy/roles/nginx/nginx.conf
         dest=/etc/nginx/nginx.conf
   tags:
-    - nginx-ck
+    - nginx
+
+
 
 
 - name: Copy file reverse
@@ -23,13 +25,13 @@
   copy: src=/opt/ansible/deploy/roles/nginx/reverse/
         dest=/etc/nginx/sites-available/reverse
   tags:
-    - nginx-ck
+    - nginx
 
 
 - stat: path=/etc/nginx/sites-enabled/default
   register: st
   tags:
-    - nginx-ck
+    - nginx
 
 - name: remove file default
   become: yes
@@ -37,14 +39,14 @@
   when: st.stat.exists == true
   shell: rm /etc/nginx/sites-enabled/default
   tags:
-    - nginx-ck
+    - nginx
 
 
 - name: check file existed
   stat: path=/etc/nginx/sites-enabled/reverse
   register: link
   tags:
-    - nginx-ck
+    - nginx
 
 - name: create symbolic link
   become: yes
@@ -52,4 +54,12 @@
   shell: sudo ln -s /etc/nginx/sites-available/reverse /etc/nginx/sites-enabled/
   when: link.stat.exists == false
   tags:
-    - nginx-ck
+    - nginx
+
+
+- name: restart nginx
+  become: yes
+  become_user: root
+  service: name=nginx state=restarted
+  tags:
+    - nginx-rs
