@@ -1,0 +1,2947 @@
+inetnum:        1.52.0.0 - 1.55.255.255
+netname:        FPT-VN
+descr:          FPT Telecom Company
+descr:          48 Van Bao, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        TPV1-AP
+----------------------------------------------------------------------------------
+inetnum:        14.0.16.0 - 14.0.31.255
+netname:        NEWLIFE-VN
+descr:          NewLiffe Trading and Service Company
+descr:          385C Nguyen Trai, Nguyen Cu Trinh, Dist No.1, HCMC
+country:        VN
+admin-c:        DHD5-AP
+----------------------------------------------------------------------------------
+inetnum:        14.160.0.0 - 14.191.255.255
+netname:        VNPT-VNNIC-VN
+descr:          VietNam Post and Telecom Corporation
+descr:          57 Huynh Thuc Khang str, Dong Da Dist, Ha Noi
+country:        VN
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        14.224.0.0 - 14.255.255.255
+netname:        VNPT-VNNIC-VN
+descr:          VietNam Post and Telecom Corporation
+descr:          57 Huynh Thuc Khang str, Dong Da Dist, Ha Noi
+country:        VN
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        27.0.12.0 - 27.0.15.255
+netname:        SUPERDATAIDC-NET
+descr:          IDC cua Cong ty Superdata
+descr:          123 Truong Dinh Street, 3 District
+descr:          Ho Chi Minh city, Vietnam
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        27.0.240.0 - 27.0.243.255
+netname:        VINECOM-VN
+descr:          VINECOM Limited Liability Company
+descr:          Tower 2, Times City, 458 Minh Khai, Vinh Tuy, Hanoi
+admin-c:        NQT6-AP
+admin-c:        TTP9-AP
+----------------------------------------------------------------------------------
+inetnum:        27.2.0.0 - 27.3.255.255
+netname:        SCTV-VN
+descr:          SaiGon Tourist Cable Television
+descr:          31 -33 Dinh Cong Trang str, Tan Dinh Ward, Dist 1. HCMC
+country:        VN
+admin-c:        NHV3-AP
+----------------------------------------------------------------------------------
+inetnum:        27.64.0.0 - 27.79.255.255
+netname:        VIETEL-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        PDT2-AP
+----------------------------------------------------------------------------------
+inetnum:        27.118.16.0 - 27.118.31.255
+netname:        HANELCOM-VNNIC-VN
+descr:          Hanel Communication JSC
+descr:          2 Chua Boc Str, Dong Da District, HaNoi
+country:        VN
+admin-c:        NNNN1-AP
+----------------------------------------------------------------------------------
+inetnum:        42.1.64.0 - 42.1.127.255
+netname:        IDCTANTHUAN-VNNIC-VN
+descr:          TANTHUAN IDC Centre
+descr:          TAN THUAN INDUSTRIAL ZONE, Tan Thuan Dong Ward, Dist.7, HCMC
+country:        VN
+admin-c:        ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.0.0 - 42.96.3.255
+netname:        HOALAC-VNNIC-VN
+descr:          HoaLac Software City Development Company
+descr:          Thang Long Highway, Hoa Lac, Thach That, Ha Noi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.4.0 - 42.96.5.255
+netname:        HOALAC-VNNIC-VN
+descr:          HoaLac Software City Development Company
+descr:          Thang Long Highway, Hoa Lac, Thach That, Ha Noi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.6.0 - 42.96.6.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Centre
+country:        VN
+admin-c:        PXD6-AP
+tech-c:         PXD6-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.7.0 - 42.96.7.255
+netname:        HOALAC-VNNIC-VN
+descr:          HoaLac Software City Development Company
+descr:          Thang Long Highway, Hoa Lac, Thach That, Ha Noi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.8.0 - 42.96.8.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Centre
+country:        VN
+admin-c:        PXD6-AP
+tech-c:         PXD6-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.9.0 - 42.96.9.255
+netname:        HOALAC-VNNIC-VN
+descr:          HoaLac Software City Development Company
+descr:          Thang Long Highway, Hoa Lac, Thach That, Ha Noi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.10.0 - 42.96.11.255
+netname:        HOALAC-VNNIC-VN
+descr:          HoaLac Software City Development Company
+descr:          Thang Long Highway, Hoa Lac, Thach That, Ha Noi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.12.0 - 42.96.15.255
+netname:        HOALAC-VNNIC-VN
+descr:          HoaLac Software City Development Company
+descr:          Thang Long Highway, Hoa Lac, Thach That, Ha Noi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.16.0 - 42.96.31.255
+netname:        HOALAC-VNNIC-VN
+descr:          HoaLac Software City Development Company
+descr:          Thang Long Highway, Hoa Lac, Thach That, Ha Noi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        42.96.32.0 - 42.96.63.255
+netname:        HOALAC-VNNIC-VN
+descr:          HoaLac Software City Development Company
+descr:          Thang Long Highway, Hoa Lac, Thach That, Ha Noi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        42.112.0.0 - 42.119.255.255
+netname:        FPT-VN
+descr:          FPT Telecom Company
+descr:          48 Van Bao, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        TPV1-AP
+----------------------------------------------------------------------------------
+inetnum:        49.156.52.0 - 49.156.55.255
+netname:        DSP-VNNIC-VN
+descr:          Danang ICT Infrastructure Development Center
+descr:          02 Quang Trung St, Thach Thang Ward, Hai Chau District,Danang City
+country:        VN
+admin-c:        LSP1-AP
+----------------------------------------------------------------------------------
+inetnum:        49.213.64.0 - 49.213.127.255
+netname:        VINAGAME-VNNIC-VN
+descr:          VinaGame Corporation
+descr:          268 To Hien Thanh, Dist 10, HCMC
+country:        VN
+admin-c:        TT280-AP
+----------------------------------------------------------------------------------
+inetnum:        49.236.208.0 - 49.236.211.255
+netname:        THUHOI-VNNIC-VN
+descr:          VNNIC
+descr:          18 Nguyen Du, Hanoi
+country:        VN
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        49.246.128.0 - 49.246.191.255
+netname:        GDS-VNNIC-VN
+descr:          Global Data Service Joint Stock Company
+descr:          Room No. 722, 7th Floor, HITC Building, 239 Xuan Thuy, Dich Vong Hau, Cau Giay, Hanoi
+country:        VN
+admin-c:        OK95-AP
+----------------------------------------------------------------------------------
+inetnum:        49.246.192.0 - 49.246.223.255
+netname:        GDS-VNNIC-VN
+descr:          Global Data Service Joint Stock Company
+descr:          Room No. 722, 7th Floor, HITC Building, 239 Xuan Thuy, Dich Vong Hau, Cau Giay, Hanoi
+country:        VN
+admin-c:        OK95-AP
+----------------------------------------------------------------------------------
+inetnum:        58.84.0.0 - 58.84.3.255
+netname:        LONGDINH-VNNIC-VN
+descr:          Cong ty TNHH Giai tri Long Dinh
+descr:          So 8, ngo 39, Hao Nam, O Cho Dua, Dong Da, Ha Noi
+admin-c:        BMP2-AP
+tech-c:         ND84-AP
+----------------------------------------------------------------------------------
+inetnum:        58.186.0.0 - 58.187.255.255
+netname:        FPT-VNNIC-VN
+descr:          Corporation for Financing and Promoting Technology
+descr:          75 Tran Hung Dao Str, Hoan Kiem Dist, Ha Noi
+country:        VN
+admin-c:        TDA1-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.212.0 - 59.153.215.255
+netname:        VINATECHSOFT-VN
+descr:          Vina technology & software one member company limited
+descr:          Cong nghe cao Hoa Lac, Km29 Dai Lo Thang Long, Ha Noi
+admin-c:        NHT14-AP
+tech-c:         HTH2-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.216.0 - 59.153.219.255
+netname:        GLTEC-VN
+descr:          GLTEC Corp
+descr:          P304-A5, 29 Lac Trung, Vinh Tuy, Hai Ba Trung, HaNoi
+admin-c:        CTTH1-AP
+tech-c:         PVN3-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.220.0 - 59.153.223.255
+netname:        MOBIFONEKV1-VN
+descr:          Mobifone Khu vuc 1
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.224.0 - 59.153.227.255
+netname:        MOBIFONEKV2-VN
+descr:          Mobifone Khu vuc 2
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.228.0 - 59.153.231.255
+netname:        MOBIFONEKV3-VN
+descr:          Mobifone Khu vuc 3
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.232.0 - 59.153.235.255
+netname:        MOBIFONEKV4-VN
+descr:          Mobifone Khu vuc 4
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.236.0 - 59.153.239.255
+netname:        MOBIFONEKV5-VN
+descr:          Mobifone Khu vuc 5
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.240.0 - 59.153.243.255
+netname:        MOBIFONEKV6-VN
+descr:          Mobifone Khu vuc 6
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.244.0 - 59.153.247.255
+netname:        MOBIFONEKV7-VN
+descr:          Mobifone Khu vuc 7
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.248.0 - 59.153.251.255
+netname:        MOBIFONEKV8-VN
+descr:          Mobifone Khu vuc 8
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        59.153.252.0 - 59.153.255.255
+netname:        MOBIFONEKV9-VN
+descr:          Mobifone Khu vuc 9
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        61.11.224.0 - 61.11.255.255
+netname:        ANDON-VNNIC-VN
+descr:          ANDON Telecom Infrastructure Joint Stock Company
+descr:          An Don, Son Tra, Da Nang City
+country:        VN
+admin-c:        TDH7-AP
+----------------------------------------------------------------------------------
+inetnum:        61.14.232.0 - 61.14.235.255
+netname:        LUUTRUSO-VN
+descr:          Digital Storage Company Limited
+descr:          193 Nguyen Xi, Phuong 26, Quan Binh Thanh, HCMC
+admin-c:        NAP1-AP
+tech-c:         BTV1-AP
+----------------------------------------------------------------------------------
+inetnum:        61.14.236.0 - 61.14.239.255
+netname:        TPTECO-VN
+descr:          TIEN PHAT TECHNOLOGY CORPORATION
+descr:          32 Truc Duong, Thao Dien, Quan2, HCMC
+admin-c:        HTH4-AP
+tech-c:         HNT8-AP
+----------------------------------------------------------------------------------
+inetnum:        61.28.224.0 - 61.28.255.255
+netname:        VINADATA-VNNIC-VN
+descr:          VinaData Information Technology Service JSC
+descr:          Toa nha Helios, Lo 6 duong so 3 Cong vien phan mem Quang Trung, phuong Tan Chanh Hiep, quan 12, TP HCM, HCMC
+country:        VN
+admin-c:        NTD10-AP
+----------------------------------------------------------------------------------
+inetnum:        101.53.0.0 - 101.53.63.255
+netname:        NETNAMHCM-VNNIC-VN
+descr:          NetNam Corporation branch in Ho Chi Minh
+descr:          244 Huynh Van Banh, F.11, Phu Nhuan District, HCM City
+country:        VN
+admin-c:        NDA3-AP
+----------------------------------------------------------------------------------
+inetnum:        101.96.12.0 - 101.96.15.255
+netname:        LCS-VNNIC-VN
+descr:          L.C.S Company.,ltd
+descr:          102A Bui Minh Truc str, dist 8, HCMC
+country:        VN
+admin-c:        HMT3-AP
+----------------------------------------------------------------------------------
+inetnum:        101.96.64.0 - 101.96.127.255
+netname:        NETNAM-VNNIC-VN
+descr:          NetNam Corporation
+descr:          18 Hoang Quoc Viet str, Cau Giay Dist, Ha Noi
+country:        VN
+admin-c:        LAT3-AP
+----------------------------------------------------------------------------------
+inetnum:        101.99.0.0 - 101.99.63.255
+netname:        CMCTI-VNNIC-VN
+descr:          CMC Telecom Infrastructure Company
+descr:          15th floor, CMC Tower,Cluster Handicraft Production andSmall Industry, Cau Giay, Ha Noi
+country:        VN
+admin-c:        NNT20-AP
+----------------------------------------------------------------------------------
+inetnum:        103.1.200.0 - 103.1.203.255
+netname:        CPVN-VNNIC-VN
+descr:          Cong thong tin Dien tu Chinh Phu
+descr:          16 Le Hong Phong, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        PQT8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.1.208.0 - 103.1.211.255
+netname:        VTDC-VNNIC-VN
+descr:          Viettel-CHT Company Ltd
+descr:          Hoa Lac Hitech Park, Km29, Lang Hoa Lac Road
+descr:          Thach That, Ha Noi
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        103.1.236.0 - 103.1.239.255
+netname:        SUPERDATA-VNNIC-VN
+descr:          Super Online Data Co., Ltd
+descr:          123 Truong Dinh, Dist 3, HCMC
+country:        VN
+admin-c:        PTTL1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.2.220.0 - 103.2.223.255
+netname:        TTN-VN
+descr:          Thanh Nien Net Telecom JSC
+descr:          02 To Vinh Dien Str, Khuong Trung, Thanh XuanDist, Ha Noi
+country:        VN
+admin-c:        BXH5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.2.224.0 - 103.2.227.255
+netname:        BNB-VNNIC-VN
+descr:          Cong ty CP ket noi BNB
+descr:          Tran Duy Hung, Cau Giay, Ha Noi
+country:        VN
+admin-c:        TVL4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.2.228.0 - 103.2.231.255
+netname:        NDC-VNNIC-VN
+descr:          Cong ty co phan truyen thong NDC
+descr:          132 Le Loi, Q1, HCMC
+country:        VN
+admin-c:        NTT12-AP
+----------------------------------------------------------------------------------
+inetnum:        103.3.244.0 - 103.3.247.255
+netname:        VDATA-VNNIC-VN
+descr:          New Vision Trading co, ltd
+descr:          260/11 Doc Lap, phuong Tan Thanh, Quan Tan Phu, HCMC
+country:        VN
+admin-c:        NNL1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.3.248.0 - 103.3.251.255
+netname:        CCVN-VNNIC-VN
+descr:          Cong ty CP sang tao Truyen thong VietNam
+descr:          3rd Floor, Technosoft Tower, Duy Tan Str., Dich Vong Hau Ward, Cau Giay District, Hanoi City
+country:        VN
+admin-c:        PTA1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.3.252.0 - 103.3.255.255
+netname:        INCOM-VNNIC-VN
+descr:          Cong ty CP Truyen thong quoc te Incom
+descr:          Toa nha Technosoft, Pho Duy Tan, Dich Vong Hau, Cau Giay,HaNoi
+country:        VN
+admin-c:        VMC2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.4.128.0 - 103.4.131.255
+netname:        TECHCOMBANK-VNNIC-VN
+descr:          Vietnam technological and commercial joint stock bank
+descr:          70-72 Ba Trieu, Hoan Kiem, Ha Noi
+country:        VN
+admin-c:        DVH2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.5.30.0 - 103.5.31.255
+netname:        KIENLONGBANK-VNNIC-VN
+descr:          KienLong Commercial Joint stock bank
+descr:          78-80 Cach mang thang 8, P6, Quan3, TPHCM
+country:        VN
+admin-c:        NQB2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.5.204.0 - 103.5.207.255
+netname:        SHINHANBANK-VNNIC-VN
+descr:          Shinhan vietnam bank limited
+descr:          1th - 3th floor, Empress Tower, 138-142 Hai Ba Trung Str., Dakao Ward, 1th District, Hochiminh City
+country:        VN
+admin-c:        YHJ34-AP
+----------------------------------------------------------------------------------
+inetnum:        103.5.208.0 - 103.5.211.255
+netname:        THREEDOTCOM-VN
+descr:          Polynet Co., Ltd
+descr:          P503- 5floor-VienDong Tower- 36 HoangCau-HaNoi
+country:        VN
+admin-c:        TLPL1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.7.36.0 - 103.7.39.255
+netname:        HTMOBILE-VNNIC-VN
+descr:          HT Mobile Communication Center
+descr:          6th floor, No7 Chua Boc, Dong Da, Ha Noi
+country:        VN
+admin-c:        NT163-AP
+----------------------------------------------------------------------------------
+inetnum:        103.7.40.0 - 103.7.43.255
+netname:        SUPERDATA-VN
+descr:          SUPERDATA
+descr:          254A Nguyen Dinh Chieu street,ward 6,District 3,HCMC
+country:        VN
+admin-c:        HVP2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.7.172.0 - 103.7.172.255
+netname:        BONONGNGHIEP-VNNIC-VN
+descr:          Ministry of Agriculture and Rural Development
+descr:          B5 Block, No.2, Ngoc Ha Street, Ba Dinh District, HaNoi
+country:        VN
+admin-c:        TAP2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.7.174.0 - 103.7.175.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+descr:          18 Nguyen Du, Hai Ba Trung, Ha Noi.
+country:        VN
+admin-c:        ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.7.177.0 - 103.7.177.255
+netname:        DUYTAN-VNNIC-VN
+descr:          DUY TAN University
+descr:          K7/25 Quang Trung str, DaNang
+country:        VN
+admin-c:        LNB2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.7.196.0 - 103.7.196.255
+netname:        PRUDENTIAL-VNNIC-VN
+descr:          Prudential Vietnam Assurance Private limited
+descr:          Tang 25, 37 Ton Duc Thang, Phuong Ben Nghe, Q1, HCM
+country:        VN
+admin-c:        LQH19-AP
+----------------------------------------------------------------------------------
+inetnum:        103.8.13.0 - 103.8.13.255
+netname:        IGI-VNNIC-VN
+descr:          International gold and investment jsc
+descr:          34 Hai Ba Trung, Hoan Kiem, Ha Noi
+country:        VN
+admin-c:        VDH1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.0.0 - 103.9.3.255
+netname:        TELEHOUSE-VNNIC-VN
+descr:          Telehouse international corporation of vietnam
+descr:          3 flood, FPT tower, Pham Hung, Ha Noi
+country:        VN
+admin-c:        DVL1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.4.0 - 103.9.7.255
+netname:        BANKNETVN-VNNIC-VN
+descr:          VietNam national financial switching joint stock company
+descr:          5 floor, Phuong Liet, Thanh Xuan, Ha Noi
+country:        VN
+admin-c:        NTT13-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.76.0 - 103.9.79.255
+netname:        VINAHOST-VN
+descr:          VI NA Host Co., ltd
+descr:          351/31 No Trang Long, P13, Q Binh Thanh, TP HCM
+admin-c:        NVN5-AP
+tech-c:         NTA3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.80.0 - 103.9.83.255
+netname:        ACBS-VN
+descr:          ACB Securities Co. Ltd
+descr:          107N Truong Dinh, Phuong 6, Quan 3, TP HCM
+admin-c:        NNC3-AP
+tech-c:         THH7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.84.0 - 103.9.87.255
+netname:        MONRE-VN
+descr:          Bo Tai Nguyen va Moi Truong
+descr:          83 Nguyen Chi Thanh, Ha Noi
+admin-c:        TNS3-AP
+tech-c:         LMD6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.156.0 - 103.9.159.255
+netname:        VNSO-VN
+descr:          VNSO TECHNOLOGY COMPANY
+descr:          43 Cu Lao, phuong 2, Phu Nhuan, HCMC
+admin-c:        TQC4-AP
+tech-c:         NMT19-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.196.0 - 103.9.199.255
+netname:        CMCTI-VN
+descr:          CMC Telecom Infrastructure Company
+descr:          15th floor, CMC Tower,Cluster Handicraft Production andSmall Industry, Cau Giay, Ha Noi
+admin-c:        NNT20-AP
+tech-c:         NNT20-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.200.0 - 103.9.203.255
+netname:        GDT-VN
+descr:          Cuc CNTT-Tong cuc Thue
+descr:          HITC Tower, 239 Xuan Thuy, Cau Giay, Ha Noi
+admin-c:        PQT9-AP
+tech-c:         NTL9-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.204.0 - 103.9.207.255
+netname:        SUNSOFT-VN
+descr:          Sunsoft Corporation
+descr:          28 Ly Thuong Kiet, Vinh Ninh Ward, Hue City
+admin-c:        LTM9-AP
+tech-c:         LDP11-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.208.0 - 103.9.211.255
+netname:        THUHOI-VNNIC-VN
+descr:          VNNIC
+descr:          18 Nguyen Du, Hanoi
+admin-c:        PXD5-AP
+tech-c:         IAM3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.9.212.0 - 103.9.215.255
+netname:        HNX-VN
+descr:          HaNoi Stock Exchange
+descr:          2 Phan Chu Trinh, Hoan Kiem, HaNoi
+admin-c:        VPT2-AP
+tech-c:         LVL3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.10.44.0 - 103.10.47.255
+netname:        CLOUDMEDIA-VN
+descr:          CLOUDMEDIA COMPANY LIMITED
+descr:          4 Nguyen Dinh Chieu, DaKao, quan1, HCMC
+admin-c:        PTNT1-AP
+tech-c:         NVT20-AP
+----------------------------------------------------------------------------------
+inetnum:        103.10.88.0 - 103.10.91.255
+netname:        PVCOMBANK-VN
+descr:          PVcombank
+descr:          22 Ngo Quyen str, Hoan Kiem,Ha Noi
+country:        VN
+admin-c:        KMT2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.10.212.0 - 103.10.215.255
+netname:        VIB-VNNIC-VN
+descr:          Vietnam Internationl commercial joint stock bank
+descr:          198B Tay Son, Dong Da, Ha Noi
+country:        VN
+admin-c:        NVS5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.11.172.0 - 103.11.175.255
+netname:        VIETCOMBANK-VNNIC-VN
+descr:          Joint stock Commercial Bank for Foreign Trade of VietNam
+descr:          198 Tran Quang Khai, Ha Noi
+country:        VN
+admin-c:        NHT13-AP
+----------------------------------------------------------------------------------
+inetnum:        103.12.104.0 - 103.12.107.255
+netname:        MBBANK-VN
+descr:          Military commercial join stock bank
+descr:          so 3 Lieu Giai, Ba Dinh, Ha Noi
+admin-c:        VTH1-AP
+tech-c:         NNH5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.13.76.0 - 103.13.79.255
+netname:        MOST-VN
+descr:          Trung tam tin hoc - Bo Khoa hoc va Cong nghe
+descr:          P502-113 Tran Duy Hung, Cau Giay, Ha Noi
+admin-c:        HMT13-AP
+tech-c:         NHV1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.15.48.0 - 103.15.51.255
+netname:        MATBAO-VN
+descr:          MatBao network services
+descr:          334 Cao Thang,P12,Q10,HCMC
+admin-c:        NQV2-AP
+tech-c:         PKN4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.16.0.0 - 103.16.3.255
+netname:        MIC-VNNIC-VN
+descr:          Trung tam Thong tin Bo TT & TT
+descr:          18 Nguyen Du, Hai Ba Trung, Ha Noi
+admin-c:        THS8-AP
+tech-c:         DTB1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.17.88.0 - 103.17.91.255
+netname:        VNTT-VNNIC-VN
+descr:          Vietnam Technology and Telecommunication JSC
+descr:          T4 No.1 way, Vietnam Singapore IPZ2,Hoa Phu,Thu Dau Mot City,Binh Duong
+admin-c:        LXV1-AP
+tech-c:         LXV1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.17.236.0 - 103.17.239.255
+netname:        INTERCOM-VN
+descr:          Intercom Telecom., JSC
+descr:          802-room, N01 Building, Dich Vong, Cau Giay, Hanoi
+admin-c:        NMT15-AP
+tech-c:         NTN4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.18.4.0 - 103.18.7.255
+netname:        RUNSYSTEM-VN
+descr:          GMO RUNSYSTEM JSC
+descr:          118 Nguyen Ngoc Nai, Khuong Mai, Thanh Xuan, Hanoi
+admin-c:        NVT15-AP
+tech-c:         LQL7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.18.176.0 - 103.18.179.255
+netname:        DIGIPOWER-VN
+descr:          DIGIPOWER CO., LTD
+descr:          U11 Bach Ma, Ward 5, Ditrict 10, Hochiminh
+admin-c:        PPN2-AP
+tech-c:         PDH7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.19.96.0 - 103.19.99.255
+netname:        SGAME-VN
+descr:          SGAME., JSC
+descr:          35, 3rd Street, Tran Thai Tong, Dich Vong, Cau Giay, Hanoi
+admin-c:        MTL4-AP
+tech-c:         HMC9-AP
+----------------------------------------------------------------------------------
+inetnum:        103.19.164.0 - 103.19.167.255
+netname:        MOBIFONEGLOBAL-VN
+descr:          Mobifone Global JSC
+descr:          Suite 602, 6th floor, Ford Thang Long Building, 105 Lang Ha, Dong Da, Hanoi
+admin-c:        MGIP1-AP
+admin-c:        MGN2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.19.220.0 - 103.19.223.255
+netname:        NAHI-VN
+descr:          NA HI joint stock company
+descr:          110 Cao Thang, No.3 District, Hochiminh
+admin-c:        NNH6-AP
+tech-c:         VTH2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.20.144.0 - 103.20.147.255
+netname:        DTS-VNNIC-VN
+descr:          DTS Communication Technologies Corporation
+descr:          287B Dien Bien Phu street, District 3, Ho ChiMinh City.
+admin-c:        NTHT1-AP
+tech-c:         LA135-AP
+----------------------------------------------------------------------------------
+inetnum:        103.20.148.0 - 103.20.151.255
+netname:        VONLINE-VNNIC-VN
+descr:          Viet Online trading service corporation
+descr:          Room 606, Indochina tower, No4 Nguyen Dinh Chieu, Da Kao, HCMC.
+admin-c:        NVN6-AP
+tech-c:         HQD2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.21.120.0 - 103.21.123.255
+netname:        PVOIL-VN
+descr:          Pertrovietnam oil corporation
+descr:          14-17 Floor, Pertrovietnam tower, 1-5 Le Duan Str, Dist 1, HCMC
+admin-c:        BDD3-AP
+tech-c:         PQP1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.21.148.0 - 103.21.151.255
+netname:        CMCTELECOM-VN
+descr:          CMC Telecom Service Company
+descr:          15th floor, CMC Tower,Cluster Handicraft Production andSmall Industry, Cau Giay, Ha Noi
+admin-c:        NTH14-AP
+tech-c:         NNT20-AP
+----------------------------------------------------------------------------------
+inetnum:        103.23.144.0 - 103.23.147.255
+netname:        DIGINET-VNNIC-VN
+descr:          Digital telecomminication service joint stock
+descr:          Tang 18, Toa nha VTC Online, 18 Tam Trinh, Hai Ba Trung, Ha Noi
+country:        VN
+admin-c:        NAT1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.23.156.0 - 103.23.159.255
+netname:        VINATECHSOFT-VNNIC-VN
+descr:          Vina technology & software one member company limited
+descr:          Cong nghe cao Hoa Lac, Km29 Dai Lo Thang Long, Ha Noi
+country:        VN
+admin-c:        NHT14-AP
+----------------------------------------------------------------------------------
+inetnum:        103.24.244.0 - 103.24.247.255
+netname:        HTS-VN
+descr:          Vietnam HTS., JSC
+descr:          No. 2 Chua Boc, Dong Da district, Hanoi city
+admin-c:        PTP1-AP
+tech-c:         VVT2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.26.252.0 - 103.26.255.255
+netname:        PVI-VN
+descr:          PVI Holdings
+descr:          PVI Tower, 168 Tran Thai Tong, Cau Giay, Hanoi
+admin-c:        PKD12-AP
+admin-c:        NAT4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.27.60.0 - 103.27.63.255
+netname:        VHOST-VN
+descr:          Viet Solutions Services Trading Company Limited
+descr:          34 Tan Lap, Ward 8, Tan Binh District, Hochiminh
+admin-c:        TTN4-AP
+tech-c:         TTN4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.27.64.0 - 103.27.67.255
+netname:        VTV-VN
+descr:          Trung tam Tin hoc va Do luong - Dai THVN
+descr:          43 Nguyen Chi Thanh, Ba Dinh, Hanoi
+admin-c:        DDV3-AP
+admin-c:        NMH12-AP
+----------------------------------------------------------------------------------
+inetnum:        103.27.236.0 - 103.27.239.255
+netname:        LVSS-VN
+descr:          Long Van System Solution JSC
+descr:          Long Van Building, 37/2/6 Road 12, Binh An, District 2, HCMC
+admin-c:        NHR1-AP
+tech-c:         QDT1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.28.32.0 - 103.28.35.255
+netname:        VNNIC-VN
+descr:          Vietnam Internet Network Information Centre
+descr:          18 Nguyen Du, Hanoi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.28.36.0 - 103.28.39.255
+netname:        NHANHOA-VNNIC-VN
+descr:          NhanHoa Software company
+descr:          32 Vo Van Dung, Dong Da, Ha Noi
+country:        VN
+admin-c:        LTTH3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.28.136.0 - 103.28.139.255
+netname:        OCB-VNNIC-VN
+descr:          Orient commercial joint stock bank
+descr:          45 Le Duan, Ben Nghe, Quan 1, HCMC
+country:        VN
+admin-c:        DQL4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.28.172.0 - 103.28.175.255
+netname:        VNCERT-VNNIC-VN
+descr:          VietNam Computer Emergency Response Teams
+descr:          18 Nguyen Du, Hai Ba Trung, Ha Noi
+country:        VN
+admin-c:        NQH5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.30.36.0 - 103.30.39.255
+netname:        BMSC-VN
+descr:          Bao Minh Securities company
+descr:          198 Phan Xich Long, Phuong 2, Quan Phu Nhuan, HCMC
+admin-c:        NVB6-AP
+tech-c:         NDG4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.31.120.0 - 103.31.123.255
+netname:        OCEANBANK-VNNIC-VN
+descr:          Ocean commercial join stock bank
+descr:          Trung Yen Plaza Building, No. 1 Trung Hoa, Cau Giay, Hanoi Noi
+admin-c:        PHP3-AP
+tech-c:         NDTT1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.31.124.0 - 103.31.127.255
+netname:        VIVAS-VNNIC-VN
+descr:          VietNam innovation value added services Co.ltd
+descr:          124 Hoang Quoc Viet, Cau Giay, Ha Noi
+admin-c:        NMQ1-AP
+tech-c:         TDT5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.35.64.0 - 103.35.67.255
+netname:        FPT-VN
+descr:          FPT Telecom Company
+descr:          48 Van Bao, Ba Dinh, Ha Noi
+admin-c:        TPV1-AP
+tech-c:         LPC5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.37.28.0 - 103.37.31.255
+netname:        TIENPHONG-VN
+descr:          Tien Phong Co., LTD
+descr:          58, 310/78 Nguyen Van Cu, Long Bien, Hanoi
+admin-c:        LNT3-AP
+admin-c:        DTS6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.37.32.0 - 103.37.35.255
+netname:        ADCSOFTWARE-VN
+descr:          ADC Software., JSC
+descr:          1, 14A Trung Yen 3, Trung Hoa, Cau Giay, Hanoi
+admin-c:        BTN2-AP
+admin-c:        DTS7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.38.136.0 - 103.38.139.255
+netname:        ISE-VN
+descr:          ICT Service Engineering Joint Stock Company
+descr:          1st Floor, N3N4, 57 alley, Lang Ha, Dong Da, Hanoi
+admin-c:        LHD1-AP
+admin-c:        DTS8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.39.92.0 - 103.39.95.255
+netname:        AZHOST-VN
+descr:          Cong ty TNHH Giai Phap Ket Noi Viet
+descr:          170 Hai Ba Trung, P. DaKao, Q1, HCMC
+admin-c:        MCT9-AP
+tech-c:         MCT9-AP
+----------------------------------------------------------------------------------
+inetnum:        103.39.96.0 - 103.39.99.255
+netname:        BISHANOI-VN
+descr:          VPDH DA Truong Quoc te da cap Anh - HaNoi
+descr:          H3-H4 Vicom Village, Long Bien, HaNoi
+admin-c:        NTQ4-AP
+tech-c:         NTQ4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.42.56.0 - 103.42.59.255
+netname:        THEGIOISO-VN
+descr:          Digital world data online company
+descr:          399/36/9 Nguyen Dinh Chieu, P5, Q3, TP HCM
+admin-c:        TMH4-AP
+tech-c:         PDP2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.45.228.0 - 103.45.231.255
+netname:        ESC-VN
+descr:          Online Solution Company Limited
+descr:          71 Tran Quoc Toan, Hoan Kiem, HaNoi
+admin-c:        HMK5-AP
+tech-c:         NAT6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.45.232.0 - 103.45.235.255
+netname:        VNCS-VN
+descr:          VietNam Cyberspace security Technology
+descr:          116 Thai Ha, Dong Da, HaNoi
+admin-c:        NTD11-AP
+tech-c:         VVT7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.45.236.0 - 103.45.239.255
+netname:        HTES-VN
+descr:          HaNoi Telecommunication engineering service
+descr:          No6, 102 Khuat Duy Tien, Thanh Xuan, HaNoi
+admin-c:        HTH3-AP
+tech-c:         VVT7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.47.192.0 - 103.47.195.255
+netname:        FTECH-VN
+descr:          Vietnam F Tech., JSC
+descr:          153 Dong Cac, O Cho Dua, Dong Da, Hanoi
+admin-c:        LHD3-AP
+tech-c:         LHD3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.48.76.0 - 103.48.79.255
+netname:        TGDD-VN
+descr:          The gioi di dong jsc
+descr:          Etown2, 364 Cong Hoa, Tan Binh, HCMC
+admin-c:        DCHC1-AP
+tech-c:         BNT8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.48.80.0 - 103.48.83.255
+netname:        BKNS-VN
+descr:          BachKim Network solutions jsc
+descr:          115B ngo 562, Duong Lang, Dong Da, HaNoi
+admin-c:        TVH11-AP
+tech-c:         PDT4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.48.84.0 - 103.48.87.255
+netname:        EMOBI-VN
+descr:          Emobi games jsc
+descr:          63 Hoang Cau, Dong Da, HaNoi
+admin-c:        NTH19-AP
+tech-c:         VTA3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.48.188.0 - 103.48.191.255
+netname:        BSTAR-VN
+descr:          Cong ty CP PTCN Sao Doi Ngoi
+descr:          320/32 Truong Chinh, Tan Binh, HCMC
+admin-c:        VVH2-AP
+tech-c:         HDT2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.48.192.0 - 103.48.195.255
+netname:        LVHN-VN
+descr:          Chi nhanh cong ty CP GPHT Long Van Ha Noi
+descr:          So 23, ngach37/2, Dich Vong, Cau Giay, HaNoi.
+admin-c:        QDT3-AP
+tech-c:         HG880-AP
+----------------------------------------------------------------------------------
+inetnum:        103.52.92.0 - 103.52.95.255
+netname:        EPOSI-VN
+descr:          Eposi., JSC
+descr:          672 Quang Trung, La Khe, Ha Dong, Hanoi
+admin-c:        PTT5-AP
+tech-c:         PTT5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.53.88.0 - 103.53.91.255
+netname:        MISA-VN
+descr:          Misa joint stock company
+descr:          Tang 9, toa nha TechnoSoft, Duy Tan, Cau Giay, HaNoi
+admin-c:        LTD5-AP
+tech-c:         DTD4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.53.168.0 - 103.53.171.255
+netname:        VCIC-VN
+descr:          Viet connection information company limited
+descr:          151a Bach Dang, phuong 2, quan Tan Binh, HCMC
+admin-c:        NVC9-AP
+tech-c:         NVC9-AP
+----------------------------------------------------------------------------------
+inetnum:        103.53.228.0 - 103.53.231.255
+netname:        AOHOAVIET-VN
+descr:          Cong ty TNHH DV Quang Cao Ao Hoa Viet
+descr:          32/07 Duong So 7, phuong 3, quan Go Vap, HCMC
+admin-c:        LMP1-AP
+tech-c:         LMP1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.53.252.0 - 103.53.255.255
+netname:        MOBIFONE-VN
+descr:          Mobifone Corporation
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         DDD5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.54.248.0 - 103.54.251.255
+netname:        NNM-VN
+descr:          House network trading services company limited
+descr:          100 Dao Duy Anh str, phuong9, quan Phu Nhuan, HCMC
+admin-c:        PTL10-AP
+tech-c:         NPH4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.54.252.0 - 103.54.255.255
+netname:        HDVIET-VN
+descr:          Cong ty CP Truc Tuyen HD Viet
+descr:          Tang14, VINCOM Tower, 72 Le Thanh Ton, phuongphuong Ben Nghe, quan 1, HCMC
+admin-c:        THP6-AP
+tech-c:         THP6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.56.156.0 - 103.56.159.255
+netname:        VCCORP-VN
+descr:          Cong ty CP VCCorp
+descr:          No1 Nguyen Huy Tuong, Thanh Xuan Trung, Thanh Xuan, HaNoi
+admin-c:        NVD10-AP
+tech-c:         NNL2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.56.160.0 - 103.56.163.255
+netname:        LMHTX-VN
+descr:          Trung tam Thong tin Hop Tac Xa VietNam
+admin-c:        NTP7-AP
+tech-c:         NTP7-AP
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        103.56.164.0 - 103.56.167.255
+netname:        TLINK-VN
+descr:          Cong ty TNHH TMDV Ung dung ket noi cong nghe
+descr:          100 Dao Duy Anh, p 9, quan Phu Nhuan, HCMC
+admin-c:        VHL2-AP
+tech-c:         LAT10-AP
+----------------------------------------------------------------------------------
+inetnum:        103.56.168.0 - 103.56.171.255
+netname:        BAOVIETBANK-VN
+descr:          Ngan hang TMCP Bao Viet
+descr:          Tang 5, 16 Phan Chu Trinh, Hoan Kiem, HaNoi
+admin-c:        PTT6-AP
+tech-c:         TTT12-AP
+----------------------------------------------------------------------------------
+inetnum:        103.57.104.0 - 103.57.107.255
+netname:        ASIACOM-VN
+descr:          Asia communications trading services corporation
+descr:          Ap 6, Xa An Nhat Tan, Huyen Tan Tru, Long An
+admin-c:        NMT18-AP
+tech-c:         DVT6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.57.112.0 - 103.57.115.255
+netname:        VSSIC-VN
+descr:          Trung tam CNTT-Bao Hiem Xa Hoi VietNam
+descr:          Tang 3, toa nha 4 tang, 150 Pho Vong, Thanh Xuan, Ha Noi
+admin-c:        LVT5-AP
+tech-c:         THD5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.57.208.0 - 103.57.211.255
+netname:        NHANHOAHCM-VN
+descr:          Chi nhanh cong ty TNHH phan mem Nhan Hoa tai TP Ho Chi Minh
+admin-c:        LHL44-AP
+tech-c:         HTD1-AP
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        103.57.220.0 - 103.57.223.255
+netname:        INET-VN
+descr:          iNET Media Company Limited
+descr:          247 Cau Giay Str, Cau Giay Dist, Ha Noi
+admin-c:        TK664-AP
+tech-c:         LVV1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.60.16.0 - 103.60.19.255
+netname:        HOABINH-VN
+descr:          Hoa Binh Informatics joint stock company
+descr:          Tang 1, 444 Hoang Hoa Tham, Ba Dinh, HaNoi
+admin-c:        MTB4-AP
+tech-c:         NVQ6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.61.44.0 - 103.61.47.255
+netname:        SCOM-VN
+descr:          Scom Technology Join stock company
+descr:          32 Giang Vo Str, Cat Linh, Dong Da, Ha Noi
+admin-c:        PQN4-AP
+tech-c:         NHV5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.61.48.0 - 103.61.51.255
+netname:        SCB-VN
+descr:          Sai Gon Join stock commercial Bank
+descr:          927 Tran Hung Dao, phuong 1, quan 5, HCMC
+admin-c:        LMH35-AP
+tech-c:         BTDN1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.62.8.0 - 103.62.11.255
+netname:        OSB-VN
+descr:          Cong ty CP Dau tu va Cong nghe OSB
+descr:          Phong 305, so 8 Ton That Thuyet, My Dinh, Tu Lien, HaNoi
+admin-c:        DHT5-AP
+tech-c:         TQT3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.63.104.0 - 103.63.107.255
+netname:        CMCBINHDUONG-VN
+descr:          Chi nhanh Binh Duong-Cong ty CP Ha Tang Vien Thong CMC
+descr:          89/11 Duong De, to 11, khu 12, phuong Chinh Nghia, Thu Dau Mot, Binh Duong
+admin-c:        HTQV1-AP
+tech-c:         NDN1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.63.108.0 - 103.63.111.255
+netname:        CMCHAIPHONG-VN
+descr:          Chi nhanh HaiPhong-Cong ty CP Ha Tang Vien Thong CMC
+descr:          104 Van Cao, Dang Giang, Ngo Quyen, Hai Phong
+admin-c:        DVT7-AP
+tech-c:         DNH2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.63.112.0 - 103.63.115.255
+netname:        CMCHCM-VN
+descr:          Chi nhanh HCM-Cong ty CP Ha Tang Vien Thong CMC
+descr:          Tang 2, RangDong Tower, 81 Cach mang thang 8, phuong Ben Thanh, Quan1, HCMC
+admin-c:        HTQV1-AP
+tech-c:         MTL3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.63.116.0 - 103.63.119.255
+netname:        CMCMIENBAC-VN
+descr:          Chi nhanh MienBac-Cong ty CP Ha Tang Vien Thong CMC
+descr:          Tang 15, Toa nha CMC, Pho Duy Tan, Dich Vong Hau, Cau Giay, HaNoi
+admin-c:        PDK3-AP
+tech-c:         DTT5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.63.120.0 - 103.63.123.255
+netname:        CMCMIENTRUNG-VN
+descr:          Chi nhanh DaNang-Cong ty CP Ha Tang Vien Thong CMC
+descr:          383 Nguyen Van Linh, phuong Thac Gian, Thanh Khe, DaNang
+admin-c:        LTT20-AP
+tech-c:         NMH14-AP
+----------------------------------------------------------------------------------
+inetnum:        103.63.212.0 - 103.63.215.255
+netname:        EHOST-VN
+descr:          Ehost software company limited
+descr:          273/20 To Hien Thanh, phuong 13, quan 10, TP HCM
+admin-c:        VVD1-AP
+tech-c:         VVD1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.192.236.0 - 103.192.239.255
+netname:        CUCATTTMIC-VN
+descr:          Cuc An Toan Thong Tin- Bo Thong tin va Truyen thong
+descr:          18 Nguyen Du, Hai Ba Trung, HaNoi
+admin-c:        NTH20-AP
+tech-c:         TMT16-AP
+----------------------------------------------------------------------------------
+inetnum:        103.194.188.0 - 103.194.191.255
+netname:        MOLISA-VN
+descr:          Labour and Social Affairs Infomation Center
+descr:          No2, Dinh Le str, HoanKiem Dis, HaNoi
+admin-c:        DCD1-AP
+tech-c:         HQT1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.195.236.0 - 103.195.239.255
+netname:        DULIEUAZ-VN
+descr:          Cong ty TNHH Cong nghe Du Lieu AZ VietNam
+descr:          121 Chu Van An, phuong 26, quan Binh Thanh, TP HCM
+admin-c:        NQV3-AP
+tech-c:         PTH10-AP
+----------------------------------------------------------------------------------
+inetnum:        103.195.240.0 - 103.195.243.255
+netname:        TOCDOSOVN-VN
+descr:          TOC DO SO Technology company limited
+descr:          52B Dong Da, phuong Thang Nhat, Vung Tau, Ba ria - Vung tau
+admin-c:        HDM4-AP
+tech-c:         LQV3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.196.16.0 - 103.196.19.255
+netname:        VNPOST-VN
+descr:          VIETNAM POST
+descr:          No5 Pham Hung, My Dinh 2, Nam Tu Liem, HaNoi
+admin-c:        NTL13-AP
+tech-c:         LVP2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.196.236.0 - 103.196.239.255
+netname:        VINADATA-VN
+descr:          VinaData Information Technology Service JSC
+descr:          Toa nha Helios, Lo 6 duong so 3 Cong vien phan mem Quang Trung, phuong Tan Chanh Hiep, quan 12, TP HCM, HCMC
+admin-c:        NTD10-AP
+tech-c:         ND84-AP
+----------------------------------------------------------------------------------
+inetnum:        103.196.244.0 - 103.196.247.255
+netname:        PCB-VN
+descr:          VietNam credit information joint stock company
+descr:          Room 1303B, Vietcombank Tower, 198 Tran Quang Khai Str, Hoan Kiem Dist, HaNoi
+admin-c:        TDH8-AP
+tech-c:         PHH4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.196.248.0 - 103.196.251.255
+netname:        DTCOM-VN
+descr:          DT Communications company limited
+descr:          3C2, Annex Building, 309B Nguyen Van Troi, Tan Binh, HCMC
+admin-c:        DPT1-AP
+tech-c:         NDT8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.4.0 - 103.199.7.255
+netname:        TMASOLUTIONS-VN
+descr:          Tuong Minh service private enterprise
+descr:          111 Nguyen Dinh Chieu, phuong 15, quan Phu Nhuan, HCMC
+admin-c:        LDL10-AP
+tech-c:         NDTT2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.8.0 - 103.199.11.255
+netname:        GLTEC-VN
+descr:          GLTEC Corp
+descr:          P304-A5, 29 Lac Trung, Vinh Tuy, Hai Ba Trung, HaNoi
+admin-c:        CTTH1-AP
+tech-c:         PVN3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.12.0 - 103.199.15.255
+netname:        VSTV-VN
+descr:          Vietnam satellite digital television company limited
+descr:          Tang 15, 512 Kim Ma, Ba Dinh, HaNoi
+admin-c:        TTH27-AP
+tech-c:         TTH27-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.16.0 - 103.199.19.255
+netname:        GREENCLOUDVPS-VN
+descr:          365 Online technology joint stock company
+descr:          So 57, to 9, duong Chien Thang, Van Quan, Ha Dong, HaNoi
+admin-c:        DAT1-AP
+tech-c:         DAT2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.20.0 - 103.199.23.255
+netname:        MOBIFONEKV1-VN
+descr:          Mobifone Khu vuc 1
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.24.0 - 103.199.27.255
+netname:        MOBIFONEKV2-VN
+descr:          Mobifone Khu vuc 2
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.28.0 - 103.199.31.255
+netname:        MOBIFONEKV3-VN
+descr:          Mobifone Khu vuc 3
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.32.0 - 103.199.35.255
+netname:        MOBIFONEKV4-VN
+descr:          Mobifone Khu vuc 4
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.36.0 - 103.199.39.255
+netname:        MOBIFONEKV6-VN
+descr:          Mobifone Khu vuc 6
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.40.0 - 103.199.43.255
+netname:        MOBIFONEKV5-VN
+descr:          Mobifone Khu vuc 5
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.44.0 - 103.199.47.255
+netname:        MOBIFONEKV7-VN
+descr:          Mobifone Khu vuc 7
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.48.0 - 103.199.51.255
+netname:        MOBIFONEKV9-VN
+descr:          Mobifone Khu vuc 9
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.52.0 - 103.199.55.255
+netname:        MOBIFONEKV8-VN
+descr:          Mobifone Khu vuc 8
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.56.0 - 103.199.59.255
+netname:        MOBIFONEMLMB-VN
+descr:          Mobifone mang luoi mien Bac
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.60.0 - 103.199.63.255
+netname:        MOBIFONEMLMN-VN
+descr:          Mobifone mang luoi mien Nam
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.64.0 - 103.199.67.255
+netname:        MOBIFONEGTGT-VN
+descr:          Trung tam Dich vu da phuong tien va GTTT Mobifone
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.68.0 - 103.199.71.255
+netname:        MOBIFONEMLMT-VN
+descr:          Mobifone mang luoi mien Trung
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.72.0 - 103.199.75.255
+netname:        MOBIFONENOC-VN
+descr:          Trung tam Quan ly dieu hanh mang Mobifone
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.199.76.0 - 103.199.79.255
+netname:        MOBIFONECNTT-VN
+descr:          Trung tam Cong nghe thong tin Mobifone
+descr:          Lo VP1, phuong Yen Hoa, Cau Giay, HaNoi
+admin-c:        NBL9-AP
+tech-c:         BTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.200.20.0 - 103.200.23.255
+netname:        VIETNIX-VN
+descr:          VIETNIX solution and technology company
+descr:          205 Chan Hung, Tan Binh, TP HCM
+admin-c:        LDT5-AP
+tech-c:         LDT5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.200.24.0 - 103.200.27.255
+netname:        MAXDATA-VN
+descr:          Cong ty TNHH Dich vu truc tuyen Maxdata
+descr:          98 hem 54, duong 37, Tan Kieng, quan 7, TP HCM
+admin-c:        TTA12-AP
+tech-c:         MCT10-AP
+----------------------------------------------------------------------------------
+inetnum:        103.200.60.0 - 103.200.63.255
+netname:        SPT-VN
+descr:          Sai gon Postel Corporation
+descr:          So10 Co Giang, Cau Ong Lanh, Quan1, TP HCM
+admin-c:        NTKD1-AP
+tech-c:         NTKD1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.200.120.0 - 103.200.123.255
+netname:        ONEVISION-VN
+descr:          One vision investment tranding service corporation
+descr:          27B Nguyen Dinh Chieu,DaKao, Quan1, HCMC
+admin-c:        NTHT2-AP
+tech-c:         NQT7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.205.96.0 - 103.205.99.255
+netname:        TPTECO-VN
+descr:          TIEN PHAT TECHNOLOGY CORPORATION
+descr:          32 Truc Duong, Thao Dien, Quan2, HCMC
+admin-c:        HTH4-AP
+tech-c:         HNT8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.205.100.0 - 103.205.103.255
+netname:        HNSDC-VN
+descr:          HaNoi State data center
+descr:          185 Giang Vo, Cat Linh, Dong Da, HaNoi
+admin-c:        TVD2-AP
+tech-c:         PNS8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.205.104.0 - 103.205.107.255
+netname:        FIMPLUS-VN
+descr:          FIM PLUS DIGITAL JOINT STOCK COMPANY
+descr:          27B Nguyen Dinh Chieu, DaKao, Quan1, HCMC
+admin-c:        TTH28-AP
+tech-c:         THP7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.206.212.0 - 103.206.215.255
+netname:        LIENMINHHUYENTHOAI-VN
+descr:          VIETNAM LEAGUE OF LEGENDS
+descr:          1st Floor, Machinco Tower, 444 Hoang Hoa Tham, Tay Ho, HaNoi
+admin-c:        TAS7-AP
+tech-c:         NVQ7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.206.216.0 - 103.206.219.255
+netname:        HOATOC-VN
+descr:          Hoa Toc Company Limited
+descr:          6th Floor, 231-233 Le Thanh Ton Street, Ben Thanh Ward, District 1, HCMC
+admin-c:        NTQ5-AP
+tech-c:         NTQ5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.207.32.0 - 103.207.35.255
+netname:        NAMABANK-VN
+descr:          Ngan hang TMCP Nam A
+descr:          201-203 Cach mang thang tam, phuong4, quan 3, HCMC
+admin-c:        THK20-AP
+tech-c:         LTD6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.207.36.0 - 103.207.39.255
+netname:        VIETSERVER-VN
+descr:          VietServer Services technology company limited
+descr:          Thon Xa Khuc, xa Chu Phan, huyen Me Linh, HaNoi
+admin-c:        NNA24-AP
+tech-c:         NDM3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.211.212.0 - 103.211.215.255
+netname:        ICTHOABINH-VN
+descr:          Duong Tran Hung Dao, phuong Phuong Lam, TP Hoa Binh, Hoa Binh
+admin-c:        NHT17-AP
+tech-c:         VMH2-AP
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        103.213.122.0 - 103.213.123.255
+netname:        DUYTAN-VNNIC-VN
+descr:          DUY TAN University
+descr:          K7/25 Quang Trung str, DaNang
+admin-c:        LNB2-AP
+tech-c:         HTS7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.214.8.0 - 103.214.11.255
+netname:        THEKYMOI-VN
+descr:          Cong ty TNHH Cong nghe The Ky Moi
+descr:          316 Le Van Sy, phuong 1, Tan Binh, TP HCM
+admin-c:        NNT22-AP
+tech-c:         NNT22-AP
+----------------------------------------------------------------------------------
+inetnum:        103.224.168.0 - 103.224.171.255
+netname:        SSG-VN
+descr:          SSG Corporation
+descr:          4/3 Do Son, Ward 4, Tan Binh District, Ho Chi Minh City
+admin-c:        LHS17-AP
+admin-c:        NTH17-AP
+----------------------------------------------------------------------------------
+inetnum:        103.225.236.0 - 103.225.239.255
+netname:        LDCC-VN
+descr:          Lotte Data Communication Company Limited
+descr:          Beautiful Sai Gon 1, Cr3-3 Lot,Block A, New City in south City, Tan Phu, District 7, HCMC
+admin-c:        WKJ15-AP
+tech-c:         NMC9-AP
+----------------------------------------------------------------------------------
+inetnum:        103.226.108.0 - 103.226.111.255
+netname:        TANCANGSG-VN
+descr:          Saigon Newport
+descr:          722 Dien Bien Phu, Ward 22, Binh Thanh District, HCMC
+admin-c:        BHQ1-AP
+tech-c:         HVA1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.226.248.0 - 103.226.251.255
+netname:        GDATA-VN
+descr:          Global Data Joint Stock Company
+descr:          No. 17, 9 Vuong Thua Vu, Khuong Mai, Thanh Xuan, Hanoi
+admin-c:        NVT16-AP
+tech-c:         NMH13-AP
+----------------------------------------------------------------------------------
+inetnum:        103.227.112.0 - 103.227.115.255
+netname:        VTCDIGICOM-VNNIC-VN
+descr:          Digital Communications Company
+descr:          65 Lac Trung str, Hai Ba Trung Disct, Ha Noi
+admin-c:        TTH15-AP
+admin-c:        NVC8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.227.216.0 - 103.227.219.255
+netname:        FPTSOFTWARE-VN
+descr:          FPT Software Company limited
+descr:          FPT Cau Giay Tower, Duy Tan, Dich Vong Hau, Cau Giay, Hanoi
+admin-c:        NAT5-AP
+tech-c:         NAH4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.228.20.0 - 103.228.23.255
+netname:        SOTTTTVP-VN
+descr:          Department of Information and Communication of Vinh Phuc
+descr:          396 Me Linh Street, Vinh Yen, Vinh Phuc
+admin-c:        TGL9-AP
+admin-c:        TDN4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.229.40.0 - 103.229.43.255
+netname:        NEWLIFE-VN
+descr:          NewLiffe Trading and Service Company
+descr:          385C Nguyen Trai, Nguyen Cu Trinh, Dist No.1, HCMC
+admin-c:        DHD5-AP
+tech-c:         TTH23-AP
+----------------------------------------------------------------------------------
+inetnum:        103.229.192.0 - 103.229.195.255
+netname:        VIETNAMHOST-VN
+descr:          Masters Technology Corporation
+descr:          45 Street No. 2, Ward 10, Go Vap Dist., HCMC
+admin-c:        NTTH1-AP
+tech-c:         NTTH2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.231.148.0 - 103.231.151.255
+netname:        SGCTT-VN
+descr:          Sai Gon CTT
+descr:          287B Dien Bien Phu, Ward 7, District 3, HCMC
+admin-c:        NHA5-AP
+admin-c:        LA223-AP
+----------------------------------------------------------------------------------
+inetnum:        103.231.188.0 - 103.231.191.255
+netname:        VNSOLUTION-VN
+descr:          34 Tan Lap street, Ward 8, Tan Binh District
+country:        SG
+geoloc:         1.310942 103.865653
+admin-c:        VSST1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.232.52.0 - 103.232.55.255
+netname:        BVISROYAL-VN
+descr:          BVIS Royal
+descr:          72A Nguyen Trai, Thanh Xuan, Hanoi
+admin-c:        KCC13-AP
+tech-c:         KCC13-AP
+----------------------------------------------------------------------------------
+inetnum:        103.232.56.0 - 103.232.59.255
+netname:        TPBANK-VN
+descr:          Tien Phong Bank
+descr:          Floor No. 3 and No. 4, TTC Tower, Duy Tan, Dich Vong Hau, Cau Giay, Hanoi
+admin-c:        NDK3-AP
+tech-c:         NDK3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.232.60.0 - 103.232.63.255
+netname:        VIETNAMNET-VN
+descr:          VietNamNet
+descr:          C'Land Tower, 156 Xa Dan 2, Nam Dong, Dong Da, Hanoi
+admin-c:        NDTH2-AP
+tech-c:         NTL10-AP
+----------------------------------------------------------------------------------
+inetnum:        103.232.120.0 - 103.232.123.255
+netname:        VHOSTCORP-VN
+descr:          VHOST CO., LTD
+descr:          55/11 Truong Son, Ward 2, Tan Binh, HCMC
+admin-c:        TTTL1-AP
+tech-c:         NHP4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.233.48.0 - 103.233.51.255
+netname:        VTVCAB-VN
+descr:          Vietnam Television Cable Corporation One Member Company Limited
+descr:          844 La Thanh, Ba Dinh, Hanoi
+admin-c:        HNH8-AP
+admin-c:        PNH6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.234.36.0 - 103.234.39.255
+netname:        VIETHOSTING-VN
+descr:          May Chu Viet Company Limited
+descr:          407 R c/c Nguyen Kim, Ward 7, District 10, HCMC
+admin-c:        NTT17-AP
+tech-c:         NTT17-AP
+----------------------------------------------------------------------------------
+inetnum:        103.234.88.0 - 103.234.91.255
+netname:        VTTC-VN
+descr:          VTTC Co., LTD
+descr:          Room No. 602, 6th floor, Thang Long Ford Building, 105 Lang Ha, Dong Da, Hanoi
+admin-c:        NTHY1-AP
+admin-c:        DTS5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.235.208.0 - 103.235.211.255
+netname:        MTT-VN
+descr:          Minh Tu Telecom Limited Company
+descr:          18/10 Sao Mai Str, 7 Ward, Tan Binh Dist, TP HCM.
+admin-c:        NVM2-AP
+tech-c:         NNT16-AP
+----------------------------------------------------------------------------------
+inetnum:        103.235.212.0 - 103.235.215.255
+netname:        MATBAOCORP-VN
+descr:          Mat Bao Corp
+descr:          54 C1, Ward 13, Tan Binh District, HCMC
+admin-c:        LHB36-AP
+tech-c:         HNT7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.237.60.0 - 103.237.63.255
+netname:        SAV-VN
+descr:          State Audit Office of Vietnam
+descr:          111 Tran Duy Hung, Cau Giay, Hanoi
+admin-c:        NXD4-AP
+admin-c:        VGK2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.237.64.0 - 103.237.67.255
+netname:        TTSV-VN
+descr:          Vietnam Telecom and Technology Solution Joint Stock Company
+descr:          105 Lang Ha, Dong Da, Hanoi
+admin-c:        LQD1-AP
+admin-c:        DTS3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.237.96.0 - 103.237.99.255
+netname:        BKAV-VN
+descr:          Bkav Corporation
+descr:          2nd floor, HH1 Building, Yen Hoa, Cau Giay, Hanoi
+admin-c:        LTN1-AP
+admin-c:        TQC3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.237.144.0 - 103.237.147.255
+netname:        LVSOFT-VN
+descr:          Long Van Soft Solution JSC
+descr:          4th floor, Long Van Building, 37/2/6 Road 12, Binh An, District 2, HCMC
+admin-c:        QDT2-AP
+admin-c:        NHR2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.237.148.0 - 103.237.151.255
+netname:        MATBAOBPO-VN
+descr:          Mat Bao BPO., JSC
+descr:          54 Road C1, Ward 13, Tan Binh, HCMC
+admin-c:        LTA1-AP
+tech-c:         LTA1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.238.68.0 - 103.238.71.255
+netname:        HANOITELECOM-VN
+descr:          Hanoi Telecom Corporation
+descr:          2 Chua Boc, Dong Da, Hanoi
+admin-c:        TMC10-AP
+admin-c:        NBM2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.238.72.0 - 103.238.75.255
+netname:        HTCHCMC-VN
+descr:          Branch of Hanoi Telecom JSC in HCM
+descr:          385C Nguyen Trai, Nguyen Cu Trinh, District 1, HCMC
+admin-c:        NAD4-AP
+admin-c:        LHK11-AP
+----------------------------------------------------------------------------------
+inetnum:        103.238.76.0 - 103.238.79.255
+netname:        MATBAOMEDIA-VN
+descr:          Mat Bao Media Joint Stock Company
+descr:          Tower 3, Quang Trung Sofware Park, 49 To Ky, Tan Chanh Hiep, District 12, HCMC
+admin-c:        HND5-AP
+tech-c:         VTH3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.238.80.0 - 103.238.83.255
+netname:        CLOUDONE-VN
+descr:          Ngoc Trang Network Solutions Company Limited
+descr:          220/53 Thong Nhat, Ward 10, Go Vap, HCMC
+admin-c:        NVT17-AP
+tech-c:         NVT18-AP
+----------------------------------------------------------------------------------
+inetnum:        103.238.208.0 - 103.238.211.255
+netname:        VINECOM-VN
+descr:          VINECOM Limited Liability Company
+descr:          Tower 2, Times City, 458 Minh Khai, Vinh Tuy, Hanoi
+admin-c:        NQT6-AP
+admin-c:        TTP9-AP
+----------------------------------------------------------------------------------
+inetnum:        103.238.212.0 - 103.238.215.255
+netname:        BIZMAC-VN
+descr:          Rainbow E-Commerce Company Limited
+descr:          76 Chu Van An, Ward 26, Binh Thanh, HCMC
+admin-c:        NTA4-AP
+tech-c:         NTA4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.239.32.0 - 103.239.35.255
+netname:        VINACOMIN-VN
+descr:          Vietnam National Coaland Mineral Industries Holding Corporation Limited
+descr:          226 Le Duan, Dong Da, Hanoi
+admin-c:        LMC18-AP
+admin-c:        NTT18-AP
+----------------------------------------------------------------------------------
+inetnum:        103.239.116.0 - 103.239.119.255
+netname:        SMARTLINK-VN
+descr:          Smartlink Card., JSC
+descr:          8 floor, 72 Tran Hung Dao, Hoan Kiem, Hanoi
+admin-c:        NTA6-AP
+admin-c:        NDH8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.239.120.0 - 103.239.123.255
+netname:        VIETNAMESPORTS-VN
+descr:          Vietnam Esports Development Joint Stock Company
+descr:          1st floor, 444 Hoang Hoa Tham, Ba Dinh, Hanoi
+admin-c:        MTB3-AP
+tech-c:         NVQ5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.241.248.0 - 103.241.251.255
+netname:        SEABANK-VN
+descr:          SEABANK
+descr:          25 Tran Hung Dao, Hoan Kiem, Hanoi
+admin-c:        DBK3-AP
+admin-c:        NTC6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.242.52.0 - 103.242.55.255
+netname:        ECOMVIET-VN
+descr:          Vietnam E-commerce Development Centre
+descr:          25 Ngo Quyen, Hoan Kiem, Hanoi
+admin-c:        THL20-AP
+tech-c:         LMH29-AP
+----------------------------------------------------------------------------------
+inetnum:        103.243.104.0 - 103.243.107.255
+netname:        CLOUDOVS-VN
+descr:          Cloudovs Vietnam Technology Joint Stock Company
+descr:          01, 41/67 Pho Vong, Dong Tam, Hai Ba Trung, Hanoi
+admin-c:        TTT11-AP
+tech-c:         NDD6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.243.216.0 - 103.243.219.255
+netname:        VAB-VN
+descr:          Vietnam-Asia Commercial Joint Stock Bank
+descr:          115-121 Nguyen Cong Tru, Nguyen Thai Binh, District 1, Hochiminh City
+admin-c:        PKD13-AP
+tech-c:         HDC3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.244.136.0 - 103.244.139.255
+netname:        VNNIC-VN
+descr:          Vietnam Internet Network Information Centre
+descr:          18 Nguyen Du, Hanoi
+admin-c:        VI2-AP
+tech-c:         VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        103.245.148.0 - 103.245.151.255
+netname:        HANELCOM-VNNIC-VN
+descr:          Hanel Communication JSC
+descr:          2 Chua Boc Str, Dong Da District, HaNoi
+admin-c:        NNNN1-AP
+tech-c:         NXH5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.245.244.0 - 103.245.247.255
+netname:        BPONLINE-VNNIC-VN
+descr:          Cong ty CP Truc tuyen BP
+descr:          89 Ngu Hai, Le Mao, TP Vinh, Nghe An
+admin-c:        NTB2-AP
+tech-c:         ND84-AP
+----------------------------------------------------------------------------------
+inetnum:        103.245.248.0 - 103.245.251.255
+netname:        LONGDINH-VNNIC-VN
+descr:          Cong ty TNHH Giai tri Long Dinh
+descr:          So 8, ngo 39, Hao Nam, O Cho Dua, Dong Da, Ha Noi
+admin-c:        BMP2-AP
+tech-c:         ND84-AP
+----------------------------------------------------------------------------------
+inetnum:        103.245.252.0 - 103.245.255.255
+netname:        NGUYENBAO-VNNIC-VN
+descr:          Cong ty TNHH Noi dung so Nguyen Bao
+descr:          73/17 Tran Khanh Du, My An, Ngu Hanh Son, Da Nang
+admin-c:        NPH2-AP
+tech-c:         ND84-AP
+----------------------------------------------------------------------------------
+inetnum:        103.246.104.0 - 103.246.104.255
+netname:        AIAVN-VNNIC-VN
+descr:          AIA Life Insurance Company limited
+descr:          Tang 1, Etown1, 364 Cong Hoa, Quan Tan Binh, HCMC
+country:        VN
+admin-c:        HVT3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.246.220.0 - 103.246.223.255
+netname:        FIBO-VNNIC-VN
+descr:          FIBO Limited Company
+descr:          P3-P3A Bach Ma str, Ward 15, Dist 10, HCMC
+country:        VN
+admin-c:        NDHV1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.248.160.0 - 103.248.163.255
+netname:        TCHQ-VN
+descr:          Customs IT and Statistics Department - General Department of Vietnam Customs
+descr:          E3, Duong Dinh Nghe, Yen Hoa, Cau Giay, Hanoi
+admin-c:        PQT10-AP
+tech-c:         NHG4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.248.164.0 - 103.248.167.255
+netname:        NITECO-VN
+descr:          Niteco VN
+descr:          13-14th floor, C'land Building, 156 Xa Dam, Nam Dong, Dong Da, Hanoi
+admin-c:        BPN1-AP
+tech-c:         DTH5-AP
+----------------------------------------------------------------------------------
+inetnum:        103.249.20.0 - 103.249.23.255
+netname:        CLOUDVIS-VN
+descr:          Cloudvis technology company limited
+descr:          25 Hoa Dao, ward 2, Phu Nhuan, Hochiminh
+admin-c:        PHT7-AP
+tech-c:         NT273-AP
+----------------------------------------------------------------------------------
+inetnum:        103.249.100.0 - 103.249.103.255
+netname:        ODS-VN
+descr:          Online data services JSC
+descr:          EE12 Bach Ma, Ward 15, District No. 10, Hochiminh city
+admin-c:        HTV3-AP
+tech-c:         HNT6-AP
+----------------------------------------------------------------------------------
+inetnum:        103.250.24.0 - 103.250.27.255
+netname:        PVISL-VN
+descr:          PVI Sun Life
+descr:          20-22 Pham Ngoc Thach, District No. 3, Hochiminh City
+admin-c:        SFL10-AP
+admin-c:        PTS4-AP
+----------------------------------------------------------------------------------
+inetnum:        103.252.0.0 - 103.252.3.255
+netname:        ISS-VN
+descr:          Internet School of Saigon Joint Stock Company
+descr:          140 Vo Van Tan, Ward 6, District 3, Hochiminh City
+admin-c:        NTK8-AP
+tech-c:         TNT8-AP
+----------------------------------------------------------------------------------
+inetnum:        103.252.252.0 - 103.252.255.255
+netname:        BANG-VN
+descr:          Bong Bong Bang Bang Corp
+descr:          123 Truong Dinh, Ward 7, District 3, Hochiminh City
+admin-c:        TPMH1-AP
+tech-c:         NTT15-AP
+----------------------------------------------------------------------------------
+inetnum:        103.253.88.0 - 103.253.91.255
+netname:        RUVN-VN
+descr:          Rmit International University Vietnam
+descr:          702 Nguyen Van Linh, Ward Tan Phong, District 7, Hochiminh City
+admin-c:        HNM5-AP
+tech-c:         DQT7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.254.12.0 - 103.254.15.255
+netname:        DIGISTAR-VN
+descr:          DigiStar Company Limited
+descr:          219 Le Quang Dinh, Ward 7, Binh Thanh District, Hochiminh City
+admin-c:        NQB3-AP
+tech-c:         NQB3-AP
+----------------------------------------------------------------------------------
+inetnum:        103.254.16.0 - 103.254.19.255
+netname:        HMU-VN
+descr:          Hanoi Medical University
+descr:          1 Ton That Tung, Dong Da District, Hanoi City
+admin-c:        NDH7-AP
+admin-c:        LTNA1-AP
+----------------------------------------------------------------------------------
+inetnum:        103.254.40.0 - 103.254.43.255
+netname:        VPDPTW-VN
+descr:          Van phong dieu phoi Chuong trinh muc tieu quoc gia
+descr:          B9, Ngoc Ha, Ba Dinh, Hanoi
+admin-c:        TML6-AP
+admin-c:        NMT16-AP
+----------------------------------------------------------------------------------
+inetnum:        103.254.216.0 - 103.254.219.255
+netname:        ICSOFT-VN
+descr:          ICSOFT Joint Stock Company
+descr:          3rd floor, Technosoft Tower, Duy Tan, Dich Vong Hau, Cau Giay, Hanoi
+admin-c:        NMT17-AP
+tech-c:         NVD9-AP
+----------------------------------------------------------------------------------
+inetnum:        103.255.84.0 - 103.255.87.255
+netname:        CTC-VN
+descr:          CTC Media Technology Apply Joint Stock Company
+descr:          room No. 1501, 17T10 Nguyen Thi Dinh, Cau Giay, Hanoi
+admin-c:        TVT7-AP
+tech-c:         NBN7-AP
+----------------------------------------------------------------------------------
+inetnum:        103.255.236.0 - 103.255.239.255
+netname:        LUUTRUSO-VN
+descr:          Digital Storage Company Limited
+descr:          193 Nguyen Xi, Phuong 26, Quan Binh Thanh, HCMC
+admin-c:        NAP1-AP
+tech-c:         BTV1-AP
+----------------------------------------------------------------------------------
+inetnum:        110.35.64.0 - 110.35.71.255
+netname:        VINAREN-VNNIC-VN
+descr:          VietNam Research and Education Network
+descr:          24 Ly Thuong Kiet str, Hoan Kiem, Ha Noi
+country:        VN
+admin-c:        TB115-AP
+----------------------------------------------------------------------------------
+inetnum:        110.35.72.0 - 110.35.79.255
+netname:        GTELMOBILE-VNNIC-VN
+descr:          Gtel Mobile Join Stock Company
+descr:          280B Lac Long Quan str, Tay Ho Dist, Ha Noi
+country:        VN
+admin-c:        DMH9-AP
+----------------------------------------------------------------------------------
+inetnum:        110.44.184.0 - 110.44.191.255
+netname:        STS-VNNIC-VN
+descr:          SPT Telecommunications Service Center (STS)
+descr:          Number 10 Co Giang str, Dist 10, HCMC
+country:        VN
+admin-c:        TQT2-AP
+----------------------------------------------------------------------------------
+inetnum:        111.65.240.0 - 111.65.255.255
+netname:        FPTONLINE-VNNIC-VN
+descr:          FPT ONLINE JSC
+descr:          408 Dien Bien Phu str, Dist 10, Ho Chi Minh City
+country:        VN
+admin-c:        DHS2-AP
+----------------------------------------------------------------------------------
+inetnum:        111.91.232.0 - 111.91.235.255
+netname:        MOBIFONEGLOBAL-VN
+descr:          Mobifone Global JSC
+descr:          Suite 602, 6th floor, Ford Thang Long Building, 105 Lang Ha, Dong Da, Hanoi
+country:        VN
+admin-c:        MGIP1-AP
+----------------------------------------------------------------------------------
+inetnum:        112.72.64.0 - 112.72.127.255
+netname:        VTCWLB-VNNIC-VN
+descr:          VTC Wireless Broadband Company
+descr:          65 Lac Trung str, Hai Ba Trung Dist, Ha Noi
+country:        VN
+admin-c:        LXQ28-AP
+----------------------------------------------------------------------------------
+inetnum:        112.78.0.0 - 112.78.15.255
+netname:        ODS-VNNIC-VN
+descr:          Cong ty Co phan Dich vu du lieu Truc tuyen
+descr:          Online data services JSC
+descr:          123 Truong Dinh, dist 3, HCMC
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        112.109.88.0 - 112.109.95.255
+netname:        MTT-VNNIC-VN
+descr:          Minh Tu Telecom Limited Company
+descr:          18/10 Sao Mai Str, 7 Ward, Tan Binh Dist, TP HCM
+country:        VN
+admin-c:        NVM2-AP
+----------------------------------------------------------------------------------
+inetnum:        112.137.128.0 - 112.137.143.255
+netname:        VNU-VNNIC-VN
+descr:          VietNam National University Ha Noi
+descr:          144 Xuan Thuy street, Cau Giay District, Ha Noi
+country:        VN
+admin-c:        MTN1-AP
+----------------------------------------------------------------------------------
+inetnum:        112.197.0.0 - 112.197.255.255
+netname:        SCTV-VN
+descr:          SaiGon Tourist Cable Television
+descr:          31 -33 Dinh Cong Trang str, Tan Dinh Ward, Dist 1. HCMC
+country:        VN
+admin-c:        NHV3-AP
+----------------------------------------------------------------------------------
+inetnum:        112.213.80.0 - 112.213.95.255
+netname:        SUPERDATA-VN
+descr:          SUPERDATA
+descr:          254A Nguyen Dinh Chieu street,ward 6,District 3,HCMC
+country:        VN
+admin-c:        HVP2-AP
+----------------------------------------------------------------------------------
+inetnum:        113.20.96.0 - 113.20.127.255
+netname:        CMCTI-VN
+descr:          CMC Telecom Infrastructure Company
+descr:          15th floor, CMC Tower, Duy Tan, Dich Vong Hau, Cau Giay, Hanoi
+country:        VN
+admin-c:        NTH15-AP
+----------------------------------------------------------------------------------
+inetnum:        113.22.0.0 - 113.22.255.255
+netname:        FPT-VNNIC-VN
+country:        VN
+descr:          FPT Telecom
+descr:          75 Tran Hung Dao Str, Hoan Kiem Dist, Ha Noi
+admin-c:        TDA1-AP
+----------------------------------------------------------------------------------
+inetnum:        113.23.0.0 - 113.23.127.255
+netname:        FPT-VNNIC-VN
+country:        VN
+descr:          FPT Telecom
+descr:          75 Tran Hung Dao Str, Hoan Kiem Dist, Ha Noi
+admin-c:        TDA1-AP
+----------------------------------------------------------------------------------
+inetnum:        113.52.32.0 - 113.52.63.255
+netname:        GDS-VNNIC-VN
+descr:          Global Data Service Joint Stock Company
+descr:          Room No. 722, 7th Floor, HITC Building, 239 Xuan Thuy, Dich Vong Hau, Cau Giay, Hanoi
+country:        VN
+admin-c:        OK95-AP
+----------------------------------------------------------------------------------
+inetnum:        113.61.108.0 - 113.61.111.255
+netname:        LCS-VNNIC-VN
+descr:          L.C.S Company.,ltd.
+descr:          102A Bui Minh Truc str, dist 8, HCMC
+country:        VN
+admin-c:        HMT3-AP
+----------------------------------------------------------------------------------
+inetnum:        113.160.0.0 - 113.191.255.255
+netname:        VNPT-VNNIC-VN
+descr:          VietNam Post and Telecom Corporation
+descr:          23 Phan Chau Trinh, Hoan Kiem Dist, Ha Noi
+country:        VN
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        115.72.0.0 - 115.79.255.255
+netname:        VIETEL-VNNIC-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        VIG4-AP
+----------------------------------------------------------------------------------
+inetnum:        115.84.176.0 - 115.84.183.255
+netname:        VTDC-VNNIC-VN
+descr:          Viettel - CHT Company Ltd
+descr:          Hoa Lac Hitech Park, Km29, Lang Hoa Lac Road,
+descr:          Thach That, HaTay
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        115.146.120.0 - 115.146.127.255
+netname:        CMCTELECOM-VNNIC-VN
+descr:          CMC Telecommunications Services Company
+descr:          273 Doi Can str, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        NTH14-AP
+----------------------------------------------------------------------------------
+inetnum:        115.165.160.0 - 115.165.167.255
+netname:        CMCTELHCMC-VNNIC-VN
+descr:          Branch of CMC Telecommunications Services Company at HCMC
+descr:          65 - 65A, 3/2 street, Dist 10, HCMC
+country:        VN
+admin-c:        NTH14-AP
+----------------------------------------------------------------------------------
+inetnum:        116.68.128.0 - 116.68.135.255
+netname:        SAIGONTEL-VNNIC-VN
+descr:          SaiGon Telecommunication & Technologies Corp
+descr:          Lot 46, Quang Trung Software Park, Dist 12,HCMC
+country:        VN
+admin-c:        LQH16-AP
+----------------------------------------------------------------------------------
+inetnum:        116.96.0.0 - 116.111.255.255
+netname:        VIETEL-VNNIC-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        VIG4-AP
+----------------------------------------------------------------------------------
+inetnum:        116.118.0.0 - 116.118.127.255
+netname:        SPT-VNNIC-VN
+country:        VN
+descr:          Sai gon Postel Corporation
+descr:          45 Le Duan, Dist 1, Ho Chi Minh City
+admin-c:        TTM11-AP
+----------------------------------------------------------------------------------
+inetnum:        116.193.64.0 - 116.193.79.255
+netname:        QTSC-VNNIC-VN
+descr:          Quang Trung Software City Development Company
+descr:          1A Highway, Tan Chanh Hiep ward, District 12, HCMC
+country:        VN
+admin-c:        CTD2-AP
+----------------------------------------------------------------------------------
+inetnum:        116.212.32.0 - 116.212.63.255
+netname:        NPC-VNNIC-VN
+descr:          North Power Company
+descr:          20 Tran Nguyen Han str, Hoan Kiem Dist, Ha Noi
+country:        VN
+admin-c:        NAV2-AP
+----------------------------------------------------------------------------------
+inetnum:        117.0.0.0 - 117.7.255.255
+netname:        VIETEL-VNNIC-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        VIG4-AP
+----------------------------------------------------------------------------------
+inetnum:        117.103.192.0 - 117.103.255.255
+netname:        VTC-VNNIC-VN
+descr:          VTC- Multimedia Corporation
+descr:          67B Ham Long str, Hoan Kiem Dist, Ha Noi
+country:        VN
+admin-c:        NVQ3-AP
+----------------------------------------------------------------------------------
+inetnum:        117.122.0.0 - 117.122.127.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+descr:          18 Nguyen Du, Hanoi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        118.68.0.0 - 118.71.255.255
+netname:        FPT-VNNIC-VN
+country:        VN
+descr:          FPT Telecom
+descr:          75 Tran Hung Dao Str, Hoan Kiem Dist, Ha Noi
+admin-c:        TDA1-AP
+----------------------------------------------------------------------------------
+inetnum:        118.102.0.0 - 118.102.7.255
+netname:        VINAGAME-VNNIC-VN
+descr:          Cong ty Co phan Tap doan Vi Na
+descr:          Vi NA GROUP CORPORATION
+descr:          268 To Hien Thanh, Dist 10, HCMC
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        118.107.64.0 - 118.107.127.255
+netname:        VTCDIGICOM-VNNIC-VN
+descr:          Digital Communications Company
+descr:          65 Lac Trung str, Hai Ba Trung Disct, Ha Noi
+country:        VN
+admin-c:        TTH15-AP
+----------------------------------------------------------------------------------
+inetnum:        119.15.160.0 - 119.15.191.255
+netname:        NETNAM-VNNIC-VN
+descr:          Netnam Corporation
+descr:          18 Hoang Quoc Viet Street, Cau Giay District, Hanoi
+descr:          ip range for Netnam Corporation
+country:        vn
+----------------------------------------------------------------------------------
+inetnum:        119.17.192.0 - 119.17.255.255
+netname:        NETNAM-VNNIC-VN
+descr:          Netnam Corporation
+descr:          18 Hoang Quoc Viet Street, Cau Giay District, Hanoi
+descr:          ip range for Netnam Corporation
+country:        vn
+----------------------------------------------------------------------------------
+inetnum:        119.18.128.0 - 119.18.143.255
+netname:        VINAREN-VNNIC-VN
+descr:          VietNam Research and Education Network
+descr:          24 Ly Thuong Kiet str, Hoan Kiem, Ha Noi
+country:        VN
+admin-c:        TB115-AP
+----------------------------------------------------------------------------------
+inetnum:        119.18.184.0 - 119.18.191.255
+netname:        VTCDIGICOM-VNNIC-VN
+descr:          Digital Communications Company
+descr:          631 Kim Nguu str, Hai Ba Trung Dist, Ha Noi
+country:        VN
+admin-c:        TTH15-AP
+----------------------------------------------------------------------------------
+inetnum:        116.0.0.0 - 119.255.255.255
+netname:        APNIC-AP
+descr:          Asia Pacific Network Information Centre
+descr:          Regional Internet Registry for the Asia-Pacific Region
+descr:          6 Cordelia Street
+descr:          PO Box 3646
+----------------------------------------------------------------------------------
+inetnum:        120.50.184.0 - 120.50.191.255
+netname:        KCC-VNNIC-VN
+country:        VN
+descr:          Kien Cuong International JSC
+descr:          346 Nguyen Khoai str, Hai Ba Trung Dist, Ha Noi
+admin-c:        NTH9-AP
+----------------------------------------------------------------------------------
+inetnum:        120.72.80.0 - 120.72.87.255
+netname:        QTSC-VNNIC-VN
+descr:          Quang Trung Software City Development Company
+descr:          Highway 1A, Tan Chanh Hiep ward, District 12, HCMC
+country:        VN
+admin-c:        QIG1-AP
+----------------------------------------------------------------------------------
+inetnum:        120.72.96.0 - 120.72.127.255
+netname:        QTSC-VNNIC-VN
+descr:          Quang Trung Software City Development Company
+descr:          Highway 1A, Tan Chanh Hiep ward, District 12, HCMC
+country:        VN
+admin-c:        QIG1-AP
+----------------------------------------------------------------------------------
+inetnum:        120.138.64.0 - 120.138.79.255
+netname:        VINAGAME-VNNIC-VN
+descr:          Cong ty Co phan Tap doan Vi Na
+descr:          Vi NA GROUP CORPORATION
+descr:          268 To Hien Thanh, Dist 10, HCMC
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        121.50.172.0 - 121.50.175.255
+netname:        ONEVISION-VN
+descr:          One vision investment tranding service corporation
+descr:          27B Nguyen Dinh Chieu,DaKao, Quan1, HCMC
+admin-c:        NTHT2-AP
+tech-c:         NQT7-AP
+----------------------------------------------------------------------------------
+inetnum:        122.102.112.0 - 122.102.115.255
+netname:        HABUBANK-VNNIC-VN
+descr:          Hanoi Building Commercial Joint Stock Bank
+descr:          15-17 Ngoc Khanh, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        NDL3-AP
+----------------------------------------------------------------------------------
+inetnum:        122.129.0.0 - 122.129.63.255
+netname:        NEWYEARCOM-VNNIC-VN
+descr:          Cong ty truyen thong Thoi dai moi
+descr:          Le Duan, Hai Ba Trung, Ha Noi
+country:        VN
+admin-c:        TCT13-AP
+----------------------------------------------------------------------------------
+inetnum:        122.201.8.0 - 122.201.15.255
+netname:        VINAGAME-VNNIC-VN
+descr:          Cong ty Co phan Tap doan Vi Na
+descr:          Vi NA GROUP CORPORATION
+descr:          268 To Hien Thanh, Dist 10, HCMC
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        123.16.0.0 - 123.31.255.255
+netname:        VNPT-VNNIC-VN
+descr:          VietNam Post and Telecom Corporation
+descr:          23 Phan Chau Trinh, Hoan Kiem Dist, Ha Noi
+country:        VN
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        124.157.0.0 - 124.157.63.255
+netname:        VANDON-VNNIC-VN
+descr:          VANDON IDC Company
+descr:          42 Tran Quoc Toan, Hai Chau, Da Nang
+country:        VN
+admin-c:        NXB1-AP
+----------------------------------------------------------------------------------
+inetnum:        124.158.0.0 - 124.158.15.255
+netname:        CMCTELECOM-VNNIC-VN
+descr:          CMC Telecom Service Company
+descr:          273 Doi Can, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        NTH15-AP
+----------------------------------------------------------------------------------
+inetnum:        125.58.0.0 - 125.58.63.255
+netname:        HITECHCOM-VNNIC-VN
+descr:          Cong ty co phan mang luoi ky thuat cao
+descr:          Nguyen Dinh Chieu, HCMC
+country:        VN
+admin-c:        DDH7-AP
+----------------------------------------------------------------------------------
+inetnum:        125.212.128.0 - 125.212.255.255
+netname:        VIETEL-VNNIC-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        VIG4-AP
+----------------------------------------------------------------------------------
+inetnum:        125.214.0.0 - 125.214.63.255
+netname:        VIETEL-VNNIC-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        VIG4-AP
+----------------------------------------------------------------------------------
+inetnum:        125.234.0.0 - 125.235.255.255
+netname:        VIETEL-VNNIC-VN
+country:        VN
+descr:          Viettel Corporation
+descr:          No 1, Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+admin-c:        VIG4-AP
+----------------------------------------------------------------------------------
+inetnum:        125.253.112.0 - 125.253.127.255
+netname:        ODS-VNNIC-VN
+descr:          Online data services JSC
+descr:          123 Truong Dinh, dist 3, HCMC
+country:        VN
+admin-c:        HTV3-AP
+----------------------------------------------------------------------------------
+inetnum:        171.224.0.0 - 171.255.255.255
+netname:        VIETEL-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        PDT2-AP
+----------------------------------------------------------------------------------
+inetnum:        175.103.64.0 - 175.103.127.255
+netname:        HANOICOM-VNNIC-VN
+descr:          HaNoi Communications
+descr:          Giai Phong, Hai Ba Trung, Ha Noi
+country:        VN
+admin-c:        NTD9-AP
+----------------------------------------------------------------------------------
+inetnum:        175.106.0.0 - 175.106.3.255
+netname:        AGRIBANK-VNNIC-VN
+descr:          Information Technology Center-Vietnam Bank for Agriculture and Rural Development
+descr:          C3 Phuong Liet, Thanh Xuan, Ha Noi
+country:        VN
+admin-c:        THB5-AP
+----------------------------------------------------------------------------------
+inetnum:        180.93.0.0 - 180.93.255.255
+netname:        SPT-VNNIC-VN
+descr:          Sai gon Postel Corporation
+descr:          45 Le Duan, Dist 1, Ho Chi Minh City
+country:        VN
+admin-c:        TTM11-AP
+----------------------------------------------------------------------------------
+inetnum:        180.148.0.0 - 180.148.7.255
+netname:        VNTT-VNNIC-VN
+descr:          Vietnam Technology and Telecommunication JSC
+descr:          T4 No.1 way, Vietnam Singapore IPZ2,Ben Cat,Binh Duong
+country:        VN
+admin-c:        LXV1-AP
+----------------------------------------------------------------------------------
+inetnum:        180.148.128.0 - 180.148.143.255
+netname:        FPTONLINE-VNNIC-VN
+descr:          FPT ONLINE JSC
+descr:          408 Dien Bien Phu str, Dist 10, Ho Chi Minh City
+country:        VN
+admin-c:        DHS2-AP
+----------------------------------------------------------------------------------
+inetnum:        180.214.236.0 - 180.214.239.255
+netname:        ATI-VNNIC-VN
+descr:          ATI Vietnam Telecom JSC
+descr:          D5/152 Thuy Khue str, Tay Ho Dist, Ha Noi
+country:        VN
+admin-c:        NTT11-AP
+----------------------------------------------------------------------------------
+inetnum:        182.161.80.0 - 182.161.95.255
+netname:        KCC-VNNIC-VN
+descr:          Kien Cuong International JSC
+descr:          346 Nguyen Khoai str, Hai Ba Trung Dist, Ha Noi
+country:        VN
+admin-c:        NTH9-AP
+----------------------------------------------------------------------------------
+inetnum:        182.236.112.0 - 182.236.115.255
+netname:        MPI-VN
+descr:          Informatics Center-Ministry of Planning and Investment
+descr:          6B Hoang Dieu Str, Ba Dinh Dist, HaNoi
+country:        VN
+admin-c:        NNS4-AP
+----------------------------------------------------------------------------------
+inetnum:        182.237.20.0 - 182.237.23.255
+netname:        MTT-VNNIC-VN
+descr:          Minh Tu Telecom Limited Company
+descr:          18/10 Sao Mai Str, 7 Ward, Tan Binh Dist, TP HCM
+country:        VN
+admin-c:        NVM2-AP
+----------------------------------------------------------------------------------
+inetnum:        183.80.0.0 - 183.80.255.255
+netname:        FPT-VN
+descr:          FPT Telecom Company
+descr:          48 Van Bao, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        TPV1-AP
+----------------------------------------------------------------------------------
+inetnum:        183.81.0.0 - 183.81.127.255
+netname:        IPxDSL-NET
+country:        VN
+descr:          Dai IP dong su dung cho ket noi xDSL
+descr:          IP range use for xDSL Service of FPT
+admin-c:        FHIG2-AP
+----------------------------------------------------------------------------------
+inetnum:        183.90.160.0 - 183.90.167.255
+netname:        VNAIR-VNNIC-VN
+descr:          Vietnam Airlines Corporation
+descr:          200 Nguyen Son str, Long Bien Dist, Ha Noi
+country:        VN
+admin-c:        DTT3-AP
+----------------------------------------------------------------------------------
+inetnum:        183.91.0.0 - 183.91.31.255
+netname:        CMCTI-VNNIC-VN
+descr:          CMC Telecom Infrastructure Company
+descr:          3nd Floor, 16 Lieu Giai, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        NNT20-AP
+----------------------------------------------------------------------------------
+inetnum:        183.91.160.0 - 183.91.191.255
+netname:        GTEL-NET
+descr:          Global Telecom Corp
+descr:          20 Phan Boi Chau str, Hoan Kiem Dist
+country:        VN
+admin-c:        LVD3-AP
+----------------------------------------------------------------------------------
+inetnum:        202.0.79.0 - 202.0.79.255
+netname:        POVO-VNNIC-VN
+descr:          Premier Oil Viet Nam Offshore B.V
+descr:          7th floor, 9 Dinh Tien Hoang str, District 1, TP HCM
+country:        VN
+admin-c:        PJ301-AP
+----------------------------------------------------------------------------------
+inetnum:        202.4.168.0 - 202.4.168.255
+netname:        EXIMBANK-VNNIC-VN
+descr:          Vietnam Export Import Commercial Joint stock Bank
+descr:          07 Le Thi Hong Gam str, Dist 10, HCMC
+country:        VN
+admin-c:        LAT8-AP
+----------------------------------------------------------------------------------
+inetnum:        202.4.176.0 - 202.4.176.255
+netname:        HASECO-VNNIC-VN
+descr:          Hai Phong Securities Company
+descr:          24 Cu Chinh Lan str, Hong Bang, Hai Phong
+country:        VN
+admin-c:        NNK1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.6.2.0 - 202.6.2.255
+netname:        MOFA-VNNIC-VN
+descr:          Ministry of Foreign Affairs of Vietnam
+descr:          1 Ton That Dam street, Ba Dinh District
+country:        VN
+admin-c:        NTT4-AP
+----------------------------------------------------------------------------------
+inetnum:        202.6.96.0 - 202.6.97.255
+netname:        VNA-VNNIC-VN
+descr:          Vietnam News Agency
+descr:          No 5 Ly Thuong Kiet str, Hoan Kiem Dist, Ha Noi
+country:        VN
+admin-c:        VHQ1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.9.79.0 - 202.9.79.255
+netname:        KCS-VNNIC-VN
+descr:          KCS VIETNAM COMPANY LIMITED
+descr:          Unit 1 & 2A, Floor 6, Saigon Centre, HCMC
+country:        VN
+admin-c:        DH685-AP
+----------------------------------------------------------------------------------
+inetnum:        202.9.80.0 - 202.9.80.255
+netname:        LIENVIETBANK-VNNIC-VN
+descr:          LienViet Joint Stock Commercial Bank
+descr:          2A Nguyen Thi Minh Khai, DaKao,HCMC
+country:        VN
+admin-c:        NST3-AP
+----------------------------------------------------------------------------------
+inetnum:        202.9.84.0 - 202.9.84.255
+netname:        ONEPAY-VNNIC-VN
+descr:          OnePay online service and commercial JSC
+descr:          P802 39A Ngo Quyen Str, HoanKiem Dist, HaNoi
+country:        VN
+admin-c:        LHT15-AP
+----------------------------------------------------------------------------------
+inetnum:        202.37.86.0 - 202.37.87.255
+netname:        TLS-VN
+descr:          MB securities joint stock company
+descr:          Floor M-3-7, 03 Lieu Giai, Ba Dinh, Hanoi
+country:        VN
+admin-c:        HKD1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.43.108.0 - 202.43.111.255
+netname:        DTS-VNNIC-VN
+descr:          DTS Communication Technologies Corporation
+descr:          287B Dien Bien Phu street, District 3, Ho ChiMinh City.
+country:        VN
+admin-c:        NTHT1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.44.137.0 - 202.44.137.255
+netname:        VIETINBANKSC-VNNIC-VN
+descr:          Vietnam Bank for industry and trade securities JSC
+descr:          306 Ba Trieu, Hai Ba Trung, Ha Noi
+country:        VN
+admin-c:        NCT8-AP
+----------------------------------------------------------------------------------
+inetnum:        202.47.87.0 - 202.47.87.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+descr:          18 Nguyen Du, Hai Ba Trung, Ha Noi.
+country:        VN
+admin-c:        ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.47.142.0 - 202.47.142.255
+netname:        VNNIC-VN
+descr:          Vietnam Internet Network Information Center
+descr:          Number 18, Nguyen Du str, Hai Ba Trung Dist, Ha Noi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        202.52.39.0 - 202.52.39.255
+netname:        HOANGLONG-VNNIC-VN
+descr:          Golden Dragon Company
+descr:          Room 2001,2006 No2 Ngo Duoc Ke, Ben Thanh, HCMC
+country:        VN
+admin-c:        NHH11-AP
+----------------------------------------------------------------------------------
+inetnum:        202.55.132.0 - 202.55.135.255
+netname:        ADTEC-VNNIC-VN
+descr:          ADTEC Media Joint Stock Company
+descr:          145 Nguyen Cuu Van Street,17 Ward, Binh Thach District, HCMC
+country:        VN
+admin-c:        NNT13-AP
+----------------------------------------------------------------------------------
+inetnum:        202.56.57.0 - 202.56.57.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+country:        VN
+admin-c:        ITMG1-AP
+tech-c:         ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.58.245.0 - 202.58.245.255
+netname:        SBV-VNNIC-VN
+descr:          The State Bank of Viet Nam
+descr:          64 Nguyen Chi Thanh str, Dong Da District, Ha Noi
+country:        VN
+admin-c:        NTL8-AP
+----------------------------------------------------------------------------------
+inetnum:        202.59.238.0 - 202.59.239.255
+netname:        SSI-VNNIC-VN
+descr:          SaiGon Securities Incorporation
+descr:          72 Ngo Quyen str, Dist 1, HCMC
+country:        VN
+admin-c:        PNB4-AP
+----------------------------------------------------------------------------------
+inetnum:        202.59.252.0 - 202.59.253.255
+netname:        ACB-VNNIC-VN
+descr:          Asia Commercial Bank
+descr:          442 Nguyen Thi Minh Khai Street, Ward 5, District 3, HCMC
+country:        VN
+admin-c:        TT529-AP
+----------------------------------------------------------------------------------
+inetnum:        202.60.104.0 - 202.60.111.255
+netname:        HANOITELECOM-VNNIC-VN
+descr:          Hanoi Telecom Corporation
+descr:          No 2, Chua Boc Street, Dong Da District, Hanoi City
+country:        VN
+admin-c:        NHT6-AP
+----------------------------------------------------------------------------------
+inetnum:        202.74.56.0 - 202.74.56.255
+netname:        VPBANK-VNNIC-VN
+descr:          VietNam Prosperity Joint Stock Commercial Bank
+descr:          72 Tran Hung Dao, Hoan Kiem, Ha Noi
+country:        VN
+admin-c:        VTL3-AP
+----------------------------------------------------------------------------------
+inetnum:        202.74.58.0 - 202.74.59.255
+netname:        ANBINHBANK-VNNIC-VN
+descr:          An Binh Commercial Joint Stock Bank
+descr:          170 Hai Ba Trung, P. DaKao, Q1, HCMC
+country:        VN
+admin-c:        DXV1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.78.224.0 - 202.78.231.255
+netname:        QTSC-VNNIC-VN
+descr:          Quang Trung Software City (QTSC).
+descr:          Highway 1A, Tan Chanh Hiep ward, District 12, HCMC
+country:        VN
+admin-c:        CTD2-AP
+----------------------------------------------------------------------------------
+inetnum:        202.79.232.0 - 202.79.239.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+country:        VN
+admin-c:        ITMG1-AP
+tech-c:         ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.87.212.0 - 202.87.215.255
+netname:        KIS-VNNIC-VN
+descr:          Empower Securities Corporation
+descr:          225 Ben Chuong Duong, Co Giang Ward, Dist 1, HCMC
+country:        VN
+admin-c:        NTQ2-AP
+----------------------------------------------------------------------------------
+inetnum:        202.92.4.0 - 202.92.7.255
+netname:        INET-VNNIC-VN
+descr:          iNET Media Company Limited
+descr:          247 Cau Giay Str, Cau Giay Dist, Ha Noi
+country:        VN
+admin-c:        TK664-AP
+----------------------------------------------------------------------------------
+inetnum:        202.93.156.0 - 202.93.159.255
+netname:        VNNIC-NET
+country:        VN
+descr:          Vietnam Internet Network Information Center
+descr:          Yen Hoa, Cau Giay, Ha Noi
+admin-c:        ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.94.82.0 - 202.94.82.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+descr:          18 Nguyen Du, Hai Ba Trung, Ha Noi.
+country:        VN
+admin-c:        ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.94.88.0 - 202.94.89.255
+netname:        IACP-VNNIC-VN
+descr:          IACP ASIA Co.,Ltd
+descr:          97-99-101 Nguyen Cong Tru str, District 1, TP HCM
+country:        VN
+admin-c:        DNCH2-AP
+----------------------------------------------------------------------------------
+inetnum:        202.124.204.0 - 202.124.204.255
+netname:        APEC-VN
+descr:          Asian Pacific Securities joint stock Company
+descr:          14 Le Dai Hanh Str., Hai Ba Trung Dist., Hanoi City
+country:        VN
+admin-c:        NDL6-AP
+----------------------------------------------------------------------------------
+inetnum:        202.130.36.0 - 202.130.37.255
+netname:        ARTEXSECURITIES-VNNIC-VN
+descr:          Artex Securities Joint Stock Company
+descr:          5th floor, FLC Landmark Tower, Le Duc Tho street, Tu Liem Dist, Ha Noi
+country:        VN
+admin-c:        NTQ1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.134.16.0 - 202.134.23.255
+netname:        NGT-VNNIC-VN
+country:        VN
+descr:          New Generations Telecommunication Corporation
+descr:          4A2, Nguyen Chi Thanh str, Ha Noi
+admin-c:        TDH5-AP
+----------------------------------------------------------------------------------
+inetnum:        202.134.54.0 - 202.134.54.255
+netname:        TVSI-VNNIC-VN
+descr:          Tan Viet Security Incorporation
+descr:          152 Thuy Khue str, Tay Ho Dist, Ha Noi
+country:        VN
+admin-c:        NTH3-AP
+----------------------------------------------------------------------------------
+inetnum:        202.143.108.0 - 202.143.111.255
+netname:        THEGIOISO-VN
+descr:          Digital world data online company
+descr:          399/36/9 Nguyen Dinh Chieu, P5, Q3, TP HCM
+admin-c:        TMH4-AP
+tech-c:         PDP2-AP
+----------------------------------------------------------------------------------
+inetnum:        202.151.160.0 - 202.151.175.255
+netname:        NETNAM-VNNIC-VN
+descr:          Netnam Corporation
+descr:          18 Hoang Quoc Viet Street, Cau Giay District, Hanoi
+descr:          ip range for Netnam Corporation
+country:        vn
+----------------------------------------------------------------------------------
+inetnum:        202.158.244.0 - 202.158.247.255
+netname:        VNNIC-NET
+country:        VN
+descr:          Vietnam Internet Network Information Center
+descr:          Yen Hoa, Cau Giay, Ha Noi
+admin-c:        ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.160.124.0 - 202.160.125.255
+netname:        VNDIRECT-VNNIC-VN
+descr:          VnDirect Securities Corporation
+descr:          No.100 Lo Duc, Hai Ba Trung, Ha Noi
+country:        VN
+admin-c:        HMV1-AP
+----------------------------------------------------------------------------------
+inetnum:        202.172.4.0 - 202.172.5.255
+netname:        HTMOBILE-VNNIC-VN
+descr:          HT Mobile Communication Center
+descr:          6th Floor, No. 98 Hoang Quoc Viet Str, Cau Giay Dist, Ha Noi
+country:        VN
+admin-c:        NT163-AP
+----------------------------------------------------------------------------------
+inetnum:        202.191.56.0 - 202.191.59.255
+netname:        HUT-VNNIC-VN
+descr:          Hanoi Universsity of Technology
+descr:          Number 1, Dai Co Viet str, Hai Ba Trung Dist, Ha Noi
+country:        VN
+admin-c:        NNB1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.8.127.0 - 203.8.127.255
+netname:        TNKVIETNAM-VNNIC-VN
+descr:          Cong ty TNK Viet Nam B.V
+descr:          Villa A15, An Phu, Thao Dien, Quan 2, HCMC
+country:        VN
+admin-c:        NQV1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.8.172.0 - 203.8.172.255
+netname:        SHBS-VNNIC-VN
+descr:          SHB Securities Joint Stock Company (SHBS)
+descr:          2A Pham Su Manh, Hoan Kiem, Hanoi
+country:        VN
+admin-c:        NVH14-AP
+----------------------------------------------------------------------------------
+inetnum:        203.34.144.0 - 203.34.144.255
+netname:        VBL-VNNIC-VN
+descr:          Vietnam Brewery Limited
+descr:          02 Ngo Duc Ke Street, 15th Floor, Me Linh Point Tower, 1 Dist, HCMC
+country:        VN
+admin-c:        NNM6-AP
+----------------------------------------------------------------------------------
+inetnum:        203.77.178.0 - 203.77.178.255
+netname:        DAB-VNNIC-VN
+descr:          Dong A Commercial Join Stock Bank
+descr:          130 Phan Dang Luu str, Phu Nhuan Dist, HCMC
+country:        VN
+admin-c:        NDD5-AP
+----------------------------------------------------------------------------------
+inetnum:        203.79.28.0 - 203.79.28.255
+netname:        CSCJ-VNNIC-VN
+descr:          Capital Securities Company
+descr:          No1 Dao Duy Anh str, Dong Da District, Ha Noi
+country:        VN
+admin-c:        TMT11-AP
+----------------------------------------------------------------------------------
+inetnum:        203.89.140.0 - 203.89.143.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+country:        VN
+admin-c:        ITMG1-AP
+tech-c:         ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.99.248.0 - 203.99.251.255
+netname:        SFONE-VNNIC-VN
+descr:          CDMA Mobile Phone Center (S-FONE)
+descr:          97 Nguyen Thi Minh Khai, Ben Thanh Ward, Dist 1, HCMC
+country:        VN
+admin-c:        PAT8-AP
+----------------------------------------------------------------------------------
+inetnum:        203.113.128.0 - 203.113.191.255
+netname:        VIETEL-VNNIC-VN
+country:        VN
+descr:          Viettel Corporation
+descr:          Internet service/exchange provider
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+----------------------------------------------------------------------------------
+inetnum:        203.113.160.0 - 203.113.191.255
+netname:        VIETELserver-net
+country:        VN
+descr:          Server,host
+admin-c:        PDT2-AP
+tech-c:         NDT7-AP
+----------------------------------------------------------------------------------
+inetnum:        203.119.8.0 - 203.119.11.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet network information center (VNNIC)
+descr:          18 Nguyen Du street, Hai Ba Trung District, Hanoi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        203.119.36.0 - 203.119.39.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+descr:          115 Tran Duy Hung street, Cau Giay District, Ha Noi city
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        203.119.44.0 - 203.119.47.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet network information center (VNNIC)
+descr:          18 Nguyen Du street, Hai Ba Trung District, Hanoi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        203.119.58.0 - 203.119.59.255
+netname:        VNNIC-NET
+descr:          Branch of VNNIC in Da Nang City
+descr:          Lot 21- 7th Street, An Don, Da Nang
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        203.119.60.0 - 203.119.63.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+descr:          18 Nguyen Du, Ha Noi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        203.0.0.0 - 203.255.255.255
+netname:        APNIC-AP
+descr:          Asia Pacific Network Information Centre
+descr:          Regional Internet Registry for the Asia-Pacific Region
+descr:          6 Cordelia Street
+descr:          PO Box 3646
+----------------------------------------------------------------------------------
+inetnum:        203.119.72.0 - 203.119.75.255
+netname:        VNNIC-NET
+descr:          Branch of VNNIC in Ho Chi Minh City
+descr:          27 Nguyen Binh Khiem str, Dist 1, Ho Chi Minh City
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        203.128.240.0 - 203.128.247.255
+netname:        HTCHCMC-VNNIC-VN
+descr:          Branch of Hanoi Telecom JSC in HCMC
+descr:          125 Bis Hai Ba Trung Str, Dist 1, HCMC
+country:        VN
+admin-c:        NAD2-AP
+----------------------------------------------------------------------------------
+inetnum:        203.160.0.0 - 203.160.1.255
+netname:        VNPT-VNNIC-VN
+country:        VN
+descr:          Vietnam Posts and Telecommunications (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.160.96.0 - 203.160.103.255
+netname:        THUHOI-VNNIC-VN
+country:        VN
+descr:          VNNIC
+descr:          18 Nguyen Du, Hanoi
+admin-c:        PXD5-AP
+----------------------------------------------------------------------------------
+inetnum:        203.160.132.0 - 203.160.135.255
+netname:        CLOUDMEDIA-VN
+descr:          CLOUDMEDIA COMPANY LIMITED
+descr:          4 Nguyen Dinh Chieu, DaKao, quan1, HCMC
+admin-c:        PTNT1-AP
+tech-c:         NVT20-AP
+----------------------------------------------------------------------------------
+inetnum:        203.161.178.0 - 203.161.178.255
+netname:        SCANCOM-VNNIC-VN
+descr:          SCANCOM Vietnam Ltd
+descr:          Lot 10 street No 8, Song Than 1 IPZ, Di An, Binh Duong
+country:        VN
+admin-c:        NVH9-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.0.0 - 203.162.8.255
+netname:        VDC-NET
+country:        vn
+descr:          VietNam Data Communication Company
+admin-c:        VIG1-AP
+tech-c:         VIG1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.0.0 - 203.162.255.255
+netname:        VNPT-VNNIC-VN
+country:        VN
+descr:          Vietnam Posts and Telecommunications (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.16.0 - 203.162.31.255
+netname:        VDC-NET
+country:        vn
+descr:          VietNam Data Communication Company
+admin-c:        VIG1-AP
+tech-c:         VIG1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.0.0 - 203.162.255.255
+netname:        VNPT-VNNIC-VN
+country:        VN
+descr:          Vietnam Posts and Telecommunications (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.0.0 - 203.162.255.255
+netname:        VNPT-VNNIC-VN
+country:        VN
+descr:          Vietnam Posts and Telecommunications (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.128.0 - 203.162.143.255
+netname:        VDC-NET
+country:        vn
+descr:          VietNam Data Communication Company
+admin-c:        VIG1-AP
+tech-c:         VIG1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.144.0 - 203.162.175.255
+netname:        VDC-NET
+country:        vn
+descr:          VietNam Data Communication Company
+admin-c:        VIG1-AP
+tech-c:         VIG1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.0.0 - 203.162.255.255
+netname:        VNPT-VNNIC-VN
+country:        VN
+descr:          Vietnam Posts and Telecommunications (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.162.192.0 - 203.162.255.255
+netname:        VDC-NET
+country:        vn
+descr:          VietNam Data Communication Company
+admin-c:        VIG1-AP
+tech-c:         VIG1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.163.128.0 - 203.163.191.255
+netname:        HITEL-VNNIC-VN
+descr:          Hitel Telecom Company
+descr:          72 Nguyen Trai, Thanh Xuan, Ha Noi
+country:        VN
+admin-c:        BVD1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.167.8.0 - 203.167.11.255
+netname:        BPONLINE-VNNIC-VN
+descr:          Cong ty CP Truc tuyen BP
+descr:          89 Ngu Hai, Le Mao, TP Vinh, Nghe An
+admin-c:        NTB2-AP
+tech-c:         ND84-AP
+----------------------------------------------------------------------------------
+inetnum:        203.167.12.0 - 203.167.15.255
+netname:        MAXDATA-VN
+descr:          Cong ty TNHH Dich vu truc tuyen Maxdata
+descr:          98 hem 54, duong 37, Tan Kieng, quan 7, TP HCM
+admin-c:        TTA12-AP
+tech-c:         MCT10-AP
+----------------------------------------------------------------------------------
+inetnum:        203.170.26.0 - 203.170.27.255
+netname:        HTMOBILE-VNNIC-VN
+descr:          HT Mobile Communication Center
+descr:          6th Floor, No. 98 Hoang Quoc Viet Str, Cau Giay Dist, Ha Noi
+country:        VN
+admin-c:        NT163-AP
+----------------------------------------------------------------------------------
+inetnum:        203.171.16.0 - 203.171.31.255
+netname:        NGT-VNNIC-VN
+country:        VN
+descr:          New Generations Telecommunication Corporation
+descr:          4A2, Nguyen Chi Thanh str, Ha Noi
+admin-c:        TDH5-AP
+----------------------------------------------------------------------------------
+inetnum:        203.176.160.0 - 203.176.167.255
+netname:        KCC-VNNIC-VN
+descr:          Kien Cuong International JSC
+descr:          346 Nguyen Khoai str, Hai Ba Trung Dist, Ha Noi
+country:        VN
+admin-c:        NTH9-AP
+----------------------------------------------------------------------------------
+inetnum:        203.189.28.0 - 203.189.31.255
+netname:        VIETINBANK-VNNIC-VN
+descr:          Vietnam Bank for Industry and Trade
+descr:          46A Tang Bat Ho, Hai Ba Trung, Hanoi
+country:        VN
+admin-c:        THC18-AP
+----------------------------------------------------------------------------------
+inetnum:        203.190.160.0 - 203.190.175.255
+netname:        VIETEL-VNNIC-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        VIG4-AP
+----------------------------------------------------------------------------------
+inetnum:        203.191.8.0 - 203.191.15.255
+netname:        HOPTHANH-VNNIC-VN
+descr:          Hop Thanh Trading - Electronics - Telecom Service
+descr:          488/6. 3 thang 2 str, ward 14, dist 10, HCMC
+country:        VN
+admin-c:        PTL5-AP
+----------------------------------------------------------------------------------
+inetnum:        203.191.48.0 - 203.191.55.255
+netname:        VINAREN-VNNIC-VN
+descr:          VietNam Research and Education Network
+descr:          24 Ly Thuong Kiet str, Hoan Kiem, Ha Noi
+country:        VN
+admin-c:        TB115-AP
+----------------------------------------------------------------------------------
+inetnum:        203.195.0.0 - 203.195.63.255
+netname:        SISC-VNNIC-VN
+descr:          System Integrated Solution Company
+descr:          Trieu Viet Vuong, Hai Ba Trung, Ha Noi
+country:        VN
+admin-c:        PTD2-AP
+----------------------------------------------------------------------------------
+inetnum:        203.196.24.0 - 203.196.27.255
+netname:        SPT-VN
+descr:          Sai gon Postel Corporation
+descr:          So10 Co Giang, Cau Ong Lanh, Quan1, TP HCM
+admin-c:        NTKD1-AP
+tech-c:         NTKD1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.201.56.0 - 203.201.59.255
+netname:        BIDV-VNNIC-VN
+descr:          Bank for Investment and Development of VietNam
+descr:          Lot C1C, Handicraft and small industrial production Cluster, Duy Tan Str., Dich Vong Hau, Cau Giay, Hanoi
+country:        VN
+admin-c:        NXH4-AP
+----------------------------------------------------------------------------------
+inetnum:        203.205.0.0 - 203.205.63.255
+netname:        HATANGCMC-VNNIC-VN
+descr:          Cty co phan ha tang vien thong CMC
+descr:          Duy Tan, Dich Vong Hau, Cau Giay, Ha Noi
+country:        VN
+admin-c:        NNT20-AP
+----------------------------------------------------------------------------------
+inetnum:        203.209.180.0 - 203.209.183.255
+netname:        VNNIC-NET
+country:        vn
+descr:          Vietnam Internet Network Information Center
+admin-c:        ITMG1-AP
+tech-c:         ITMG1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.210.128.0 - 203.210.255.255
+netname:        VNPT-VNNIC-VN
+country:        VN
+descr:          Vietnam Posts and Telecommunications (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        203.210.128.0 - 203.210.255.255
+netname:        VNPT-VNNIC-VN
+country:        VN
+descr:          Vietnam Posts and Telecommunications (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        210.2.64.0 - 210.2.127.255
+netname:        QTSC-VNNIC-VN
+descr:          Quang Trung Software Development Company
+descr:          Highway 1A , Tan Chanh Hiep ward, 12 District, HCMC
+country:        VN
+admin-c:        QIG1-AP
+----------------------------------------------------------------------------------
+inetnum:        210.86.224.0 - 210.86.239.255
+netname:        NETNAM-VNNIC-VN
+descr:          Netnam Corporation
+descr:          18 Hoang Quoc Viet Street, Cau Giay District, Hanoi
+descr:          ip range for Netnam Corporation
+country:        vn
+----------------------------------------------------------------------------------
+inetnum:        210.211.96.0 - 210.211.127.255
+netname:        VTDCLayer2CustNet-NET
+descr:          layer 2 -Customer Nework of VTDC
+descr:          Hoa Lac Hitech Park, Km29, Lang Hoa Lac Road
+descr:          Thach That, Ha Noi
+country:        VN
+----------------------------------------------------------------------------------
+inetnum:        210.245.0.0 - 210.245.127.255
+netname:        FPT-VNNIC-VN
+country:        VN
+descr:          The Corporation for Financing and Promoting Technology
+descr:          Internet exchange and service provider(IXP/ISP)
+descr:          75 Tran Hung Dao st., Hanoi
+----------------------------------------------------------------------------------
+inetnum:        210.245.0.0 - 210.245.127.255
+netname:        FPT-VNNIC-VN
+country:        VN
+descr:          The Corporation for Financing and Promoting Technology
+descr:          Internet exchange and service provider(IXP/ISP)
+descr:          75 Tran Hung Dao st., Hanoi
+----------------------------------------------------------------------------------
+inetnum:        210.245.0.0 - 210.245.127.255
+netname:        FPT-VNNIC-VN
+country:        VN
+descr:          The Corporation for Financing and Promoting Technology
+descr:          Internet exchange and service provider(IXP/ISP)
+descr:          75 Tran Hung Dao st., Hanoi
+----------------------------------------------------------------------------------
+inetnum:        218.100.10.0 - 218.100.10.255
+netname:        VNIX-VN
+descr:          Vietnam Internet network information center (VNNIC)
+descr:          18 Nguyen Du street, Hai Ba Trung District, Hanoi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        218.100.14.0 - 218.100.14.255
+netname:        VNIX-VN
+descr:          Vietnam Internet network information center (VNNIC)
+descr:          18 Nguyen Du street, Hai Ba Trung District, Hanoi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        218.100.60.0 - 218.100.60.255
+netname:        VNNIC-NET
+descr:          Vietnam Internet Network Information Center
+descr:          18 Nguyen Du, Ha Noi
+country:        VN
+admin-c:        VI2-AP
+----------------------------------------------------------------------------------
+inetnum:        220.231.64.0 - 220.231.127.255
+netname:        VIETEL-VNNIC-VN
+descr:          Viettel Corporation
+descr:          1 Tran Huu Duc, My Dinh, Tu Liem, Hanoi
+country:        VN
+admin-c:        VIG4-AP
+----------------------------------------------------------------------------------
+inetnum:        221.121.0.0 - 221.121.63.255
+netname:        SPT-VNNIC-VN
+country:        VN
+descr:          Sai gon Postel Corporation
+descr:          45 Le Duan, Dist 1, Ho Chi Minh City
+admin-c:        NTKD1-AP
+----------------------------------------------------------------------------------
+inetnum:        221.132.0.0 - 221.132.63.255
+netname:        VNPT-VNNIC-VN
+country:        VN
+descr:          Vietnam Posts and Telecommunications (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        221.133.0.0 - 221.133.31.255
+netname:        SPT-VNNIC-VN
+country:        VN
+descr:          Sai gon Postel Corporation
+descr:          45 Le Duan, Dist 1, Ho Chi Minh City
+admin-c:        NTKD1-AP
+----------------------------------------------------------------------------------
+inetnum:        222.252.0.0 - 222.255.255.255
+netname:        VNPT-VNNIC-VN
+descr:          Vietnam Posts and Telecommunications Corp (VNPT)
+descr:          23 Phan Chu Trinh st., Hanoi capital, Vietnam
+country:        VN
+admin-c:        NXC1-AP
+----------------------------------------------------------------------------------
+inetnum:        223.27.104.0 - 223.27.111.255
+netname:        GLOBALCORP-VNNIC-VN
+descr:          Global informatics solution corporation
+descr:          24 Dang Thai Mai, P7, Q Phu Nhuan, HCMC
+country:        VN
+admin-c:        TTP1-AP
+----------------------------------------------------------------------------------
