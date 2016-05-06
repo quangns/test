@@ -1,6 +1,10 @@
 # Cai dat may ao vagrant
 
+$ https://www.vagrantup.com/downloads.html
+
 # Cau hinh may ao  theo file Vagrantfile
+
+$ vagrant up
 
 # Yeu cau: Viết 1 web app chạy ở port 80, nhận request HTTP request bất kỳ, đếm và trả ra số lượng unique user agent hiện tại (theo từng ngày)
 
