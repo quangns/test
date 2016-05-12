@@ -1,36 +1,32 @@
-import socket, struct
-from intervaltree import Interval, IntervalTree
-import re
+from intervaltree import IntervalTree
+import socket,struct
 
-# Chuyen tu ip ve dang int
+INTERVAL_TREE = IntervalTree()
+
+
 def change_ip(ip_addr):
     numberId = struct.unpack("!L", socket.inet_aton(ip_addr))[0]
     return numberId
 
 
-def length_file(file_input):
-    length = open(file_input).read().count("\n") + 1
-    t = IntervalTree()
+def analysis(file_input):
     with open(file_input) as file_:
         for line in file_:
-            # tim kiem dong co chu inetnum va netname
-            if re.search("inetnum", line):
+            if "inetnum" in line:
                 inetnum = line.split(' - ')
-                print inetnum
-                begin_ = change_ip(inetnum[-1])
-                line1 = inetnum[0].split('        ')
-                end_ = change_ip(line1[-1])
-            if re.search("netname", line):
-                data_ = line.split('        ')[-1]
-                print begin_,end_,data_
-                t.addi({} , {}, {}).format(begin_, end_, data_)
-
-            #print sorted(t[20447231])
+                ip_end = change_ip(inetnum[-1])
+                end = inetnum[0].split(' ')
+                ip_start = change_ip(end[-1])
+            if "netname" in line:
+                data_ = line.split(' ')[-1]
+                INTERVAL_TREE[ip_start: ip_end] = data_
 
 
-if __name__ == "__main__":
-    # print "nhap vao mot ip  "
-    # ip_addr = raw_input()
-    file_input = 'netname.txt'
-    # change_ip(ip_addr)
-    length_file(file_input)
+def get_netname(addr):
+    if addr == '127.0.0.1' or addr == 'localhost':
+        return 'localhost'
+    else:
+        analysis("netname.txt")
+        ip = change_ip(addr)
+        iv = sorted(INTERVAL_TREE[ip])
+        print (iv[0]).data
