@@ -17,10 +17,11 @@ $ git push -u origin master
 #Mấy lệnh git hay dùng
 
 # Lấy code mới về
+
 $ git pull --rebase gitlab master
 
 # Push code ở local lên
-$ git push gitlab master
+$ git push origin master
 
 # Xem trạng thái git hiện tại
 $ git status
