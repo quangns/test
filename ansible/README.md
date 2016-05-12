@@ -6,6 +6,19 @@ $ https://www.vagrantup.com/downloads.html
 
 $ vagrant up
 
+$ ssh-keygen
+
+$ cd ~/.ssh
+
+$ > known_hosts
+
+# coppy id_rsa.pub vao vagrant
+
+# tro ve code
+
+$ cd deploy
+
+$ ansible-playbook -u vagrant -i hosts site.yml
 # Yeu cau: Viết 1 web app chạy ở port 80, nhận request HTTP request bất kỳ, đếm và trả ra số lượng unique user agent hiện tại (theo từng ngày)
 
 Yêu cầu:
