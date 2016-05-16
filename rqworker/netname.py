@@ -1,9 +1,8 @@
 import subprocess
 
 
-def analysis(line):
+def analysis(line, result):
     # whois
-    result = {}
     inetnum_ = subprocess.Popen("whois {}".format(line),
                                 shell=True, stdout=subprocess.PIPE)
     output = inetnum_.communicate()
@@ -12,15 +11,13 @@ def analysis(line):
     return result[line]
 
 
-def write_file():
-    target = open("netname.txt", 'w')
-    with open("/opt/ip") as file_:
-        for line in file_:
-            a = analysis(line)
-            if 'inetnum' in a[5]:
-                for i in range(5, 11):
-                    target.write(a[i])
-                    target.write("\n")
-                target.write("------------------------------------------"
-                             "----------------------------------------\n")
+def write_file(result, line):
+    a = result[line]
+    target = open("netname.txt", 'a')
+    if 'inetnum' in a[5]:
+        for i in range(5, 11):
+            target.write(a[i])
+            target.write("\n")
+        target.write("------------------------------------------"
+                     "----------------------------------------\n")
     target.close()

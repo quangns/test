@@ -1,8 +1,16 @@
 from redis import Redis
 from rq import Queue
-from netname import write_file
+from test import analysis
+from test import write_file
 
 
+result = {}
 q = Queue(connection=Redis())
-job = q.enqueue(write_file)
 
+with open("ip") as file_:
+    for line in file_:
+        result[line] = 0
+        job = q.enqueue(analysis, line, result)
+        print result[line]
+        job2 = q.enqueue(write_file, result)
+        #print job.result
