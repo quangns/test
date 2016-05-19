@@ -1,9 +1,13 @@
-from redis import Redis
-from rq import Queue
-from netname import analysis
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 
 
-q = Queue(connection=Redis())
-with open("ip") as file_:
-    for line in file_:
-        job = q.enqueue(analysis, line)
+import netname
+from rq import Queue, Worker, Connection
+
+
+with Connection():
+    qs = map(Queue, sys.argv[1:]) or [Queue('default')]
+    w = Worker(qs, default_result_ttl=0)
+    w.work()
