@@ -36,7 +36,7 @@ def analysis(ip):
                 descrip = result['description'].split('\n')
                 target.write("description:  %s %s\n" % (descrip[0], descrip[-1]))
             else:
-                target.write("description:  %s %s\n" % (result['description']))
+                target.write("description:  %s\n" % (result['description']))
             target.write("inetnum:      %s\n" % (result['range']))
             target.write("netname:      %s\n" % (result['name']))
             target.write("cidr:         %s\n" % (result['cidr']))
