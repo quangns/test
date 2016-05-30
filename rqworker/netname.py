@@ -3,7 +3,7 @@ from netaddr import *
 
 
 # tim cac subnet co the co
-def subnet(ip, cidr):
+def find_subnet(ip, cidr):
     subnets = list(ip.subnet(cidr))
     length = len(subnets)
     # tranh whois subnets[0] them 1 lan nua
@@ -31,10 +31,9 @@ def analysis(ip):
     # kiem tra inetnum co trong ban ghi khong
     if 'range' in result:
         if check(result['range']):
-        # neu description duoc mieu ta tren 2 dong thi se xu ly
             if "\n" in result['description']:
-                descrip = result['description'].split('\n')
-                target.write("description:  %s %s\n" % (descrip[0], descrip[-1]))
+                description_ = result['description'].split('\n')
+                target.write("description:  %s %s\n" % (description_[0], description_[-1]))
             else:
                 target.write("description:  %s\n" % (result['description']))
             target.write("inetnum:      %s\n" % (result['range']))
@@ -49,4 +48,4 @@ def analysis(ip):
 def main_(line):
     ip = IPNetwork(line)
     cidr = analysis(ip)
-    subnet(ip, int(cidr))
+    find_subnet(ip, int(cidr))
