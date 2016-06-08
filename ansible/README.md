@@ -2,9 +2,15 @@
 
 $ https://www.vagrantup.com/downloads.html
 
+# Cai dat may ao vagrant
+
+$ vagrant init ubuntu/trusty64
+
 # Cau hinh may ao  theo file Vagrantfile
 
 $ vagrant up
+
+# Tai may chu chay cac lenh
 
 $ ssh-keygen
 
@@ -12,13 +18,23 @@ $ cd ~/.ssh
 
 $ > known_hosts
 
-# coppy id_rsa.pub vao vagrant
+# Vao vagrant bang lenh
 
-# tro ve code
+$ vagrant ssh
 
-$ cd deploy
+# coppy id_rsa.pub vao vagrant tai thu muc ~/.ssh/authorized_keys
+
+# Muon vao lai vagrant thi chay lenh  
+$ ssh vagrant@192.168.33.10
+
+# Ve may chu, coppy doan code vao /opt/ansible/
+
+# Sau do chay lenh
 
 $ ansible-playbook -u vagrant -i hosts site.yml
+
+
+----------------------------------------------------------------------
 # Yeu cau: Viết 1 web app chạy ở port 80, nhận request HTTP request bất kỳ, đếm và trả ra số lượng unique user agent hiện tại (theo từng ngày)
 
 Yêu cầu:
