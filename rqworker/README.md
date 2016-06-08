@@ -1,11 +1,17 @@
 # Su dung RQ(Redis Queue)
 
+```bash
 $ pip install rq
+```
 
-# tao ra 10 console, cd den thu muc tai day, moi console deu thuc hien lenh
+1. tao ra 10 console, cd den thu muc tai day, moi console deu thuc hien lenh
 
-$ rq worker
+    ```bash
+    $ rq worker
+    ```
 
-# sau do tao ra them 1 console, cd den thu muc tai day, va chay cau lenh
+2. sau do tao ra them 1 console, cd den thu muc tai day, va chay cau lenh
 
-$ python run.py
+    ```bash
+    $ python run.py
+    ```
