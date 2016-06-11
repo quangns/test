@@ -2,8 +2,9 @@
 
 1. Download vagrant
 
-    ```
-    $ bash https://www.vagrantup.com/downloads.html
+    ```bash
+    # $
+    https://www.vagrantup.com/downloads.html
     ```
 2. Cai dat may ao vagrant
 
