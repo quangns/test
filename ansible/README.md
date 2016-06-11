@@ -1,13 +1,14 @@
 # Cai dat may ao vagrant
 
 1. Download vagrant
-    ```bash
-    $ https://www.vagrantup.com/downloads.html
+
+    ```
+    $ bash https://www.vagrantup.com/downloads.html
     ```
 2. Cai dat may ao vagrant
 
     ```bash
-$ vagrant init ubuntu/trusty64
+    $ vagrant init ubuntu/trusty64
     ```
 
 3. Cau hinh may ao  theo file Vagrantfile
