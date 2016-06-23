@@ -23,7 +23,7 @@ def quick_sort(data):
                     left_data.append(data[x])
 
         length = len(left_data)
-        data[len(left_data)] = data[index]
+        data[length] = data[index]
         quick_sort(left_data)
         quick_sort(right_data)
         for i in range(length):
