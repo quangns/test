@@ -4,9 +4,11 @@ May ao cai mesos-slave thi chay file mesos-slave.sh
 May ao cai mesos-master thi chay file mesos-master.sh
 ```
 ```bash
-sudo chmod +x mesos-slave.sh
+$ sudo chmod +x mesos-master.sh
+$ ./mesos-master.sh
 ```
 ```bash
-sudo chmod +x mesos-master.sh
+$ sudo chmod +x mesos-slave.sh
+$ ./mesos-slave.sh
 ```
 
