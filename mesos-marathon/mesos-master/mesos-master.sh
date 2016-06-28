@@ -4,7 +4,7 @@ DISTRO=$(lsb_release -is | tr '[:upper:]' '[:lower:]')
 CODENAME=$(lsb_release -cs)
 echo "deb http://repos.mesosphere.com/${DISTRO} ${CODENAME} main" | \
   sudo tee /etc/apt/sources.list.d/mesosphere.list
-sudo add-apt-repository ppa:webupd8team/java
+sudo add-apt-repository -y ppa:webupd8team/java
 sudo apt-get -y update
 sudo apt-get -y install oracle-java8-installer > /dev/null 2>&1
 sudo apt-get -y install mesos marathon
