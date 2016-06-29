@@ -11,7 +11,7 @@ echo "deb http://repos.mesosphere.com/${DISTRO} ${CODENAME} main" | \
   sudo tee /etc/apt/sources.list.d/mesosphere.list
 sudo apt-get -y install mesos marathon
 echo 'config zookeeper'
-get_ip=ifconfig eth1 | grep "inet addr" | cut -d ':' -f 2 | cut -d ' ' -f 1
+get_ip=$(ifconfig eth1 | grep "inet addr" | cut -d ':' -f 2 | cut -d ' ' -f 1)
 config="dataDir=/var/lib/zookeeper
 clientPort=2181
 tickTime=2000
@@ -34,6 +34,6 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-$get_ip $(hostname)"
+"$get_ip" $(hostname)"
 echo -e "$host" | sudo tee /etc/hosts
 sudo service mesos-master restart
