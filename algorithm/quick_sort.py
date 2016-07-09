@@ -3,7 +3,7 @@ def quick_sort(data, first, last):
     leftmark = first + 1
     rightmark = last
     while leftmark <= rightmark:
-        while data[leftmark] < pivot:   #tim phan tu ben trai > key
+        while leftmark <= last and data[leftmark] <= pivot:   #tim phan tu ben trai > key
             leftmark += 1
         while data[rightmark] > pivot:  #tim phan tu ben phai < key
             rightmark -= 1
@@ -21,6 +21,7 @@ def quick_sort(data, first, last):
         quick_sort(data, leftmark, last)
     return data
 
+
 if __name__ == '__main__':
-    data =[10, 5, 14, 12, 9, 11, 3, 1, 8, 34, 35]
+    data =[10, 5, 11, 12, 90, 11, 3, 1, 8, 34, 35]
     print quick_sort(data, 0, len(data) -1)
