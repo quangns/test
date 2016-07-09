@@ -1,37 +1,26 @@
-from random import randint
-
-
-def quick_sort(data):
-    left_data = []
-    right_data = []
-
-    if len(data) == 2:
-        if data[0] > data[1]:
-            tmp = data[0]
-            data[0] = data[1]
-            data[1] = tmp
-
-    elif len(data) > 2:
-        index = randint(0,len(data)-1)
-        for x in range(len(data)):
-            if x == index:
-                continue
-            else:
-                if data[x] > data[index]:
-                    right_data.append(data[x])
-                else:
-                    left_data.append(data[x])
-
-        length = len(left_data)
-        data[length] = data[index]
-        quick_sort(left_data)
-        quick_sort(right_data)
-        for i in range(length):
-            data[i] = left_data[i]
-        for i in range(len(right_data)):
-            data[length+i+1] = right_data[i]
+def quick_sort(data, first, last):
+    pivot = data[first]
+    leftmark = first + 1
+    rightmark = last
+    while leftmark <= rightmark:
+        while data[leftmark] < pivot:   #tim phan tu ben trai > key
+            leftmark += 1
+        while data[rightmark] > pivot:  #tim phan tu ben phai < key
+            rightmark -= 1
+        if leftmark < rightmark:
+            tmp = data[leftmark]
+            data[leftmark] = data[rightmark]
+            data[rightmark] =tmp
+    if pivot > data[rightmark]:
+        tmp = data[first]
+        data[first] = data[rightmark]
+        data[rightmark] = tmp
+    if first < rightmark:
+        quick_sort(data, first, rightmark-1)
+    if leftmark < last:
+        quick_sort(data, leftmark, last)
     return data
 
-
 if __name__ == '__main__':
-    print quick_sort([10, 5, 6, 8, 9, 11, 3, 1, 12, 34, 35])
+    data =[10, 5, 14, 12, 9, 11, 3, 1, 8, 34, 35]
+    print quick_sort(data, 0, len(data) -1)
