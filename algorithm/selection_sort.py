@@ -15,4 +15,4 @@ def selection_sort(data):
 
 
 if __name__ == '__main__':
-    print selection_sort([10, 5, 6, 8, 9, 11, 3, 1, 12, 34, 35])
+    print selection_sort([10, 5, 6, 8, 5, 11, 3, 1, 12, 34, 35])

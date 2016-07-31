@@ -23,5 +23,5 @@ def quick_sort(data, first, last):
 
 
 if __name__ == '__main__':
-    data =[10, 5, 11, 12, 90, 11, 3, 1, 8, 34, 35]
+    data =[100, 5, 11, 12, 90, 11, 3, 1, 8, 34, 5]
     print quick_sort(data, 0, len(data) -1)
