@@ -11,4 +11,8 @@ $ ./mesos-master.sh
 $ sudo chmod +x mesos-slave.sh
 $ ./mesos-slave.sh
 ```
-
+```bash
+Trong file mesos-slave.sh, tai dong 14, chinh lai ip cua mesos-master
+Vd:
+    echo zk://[ip mesos-master]:2181/mesos | sudo tee /etc/mesos/zk
+```

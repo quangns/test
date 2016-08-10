@@ -11,7 +11,7 @@ get_ip=$(ifconfig eth1 | grep "inet addr" | cut -d ':' -f 2 | cut -d ' ' -f 1)
 echo 'config mesos'
 sudo service zookeeper stop
 sudo sh -c "echo manual > /etc/init/zookeeper.override"
-echo zk://"$get_ip":2181/mesos | sudo tee /etc/mesos/zk
+echo zk://192.168.33.10:2181/mesos | sudo tee /etc/mesos/zk
 sudo service mesos-master stop
 sudo sh -c "echo manual > /etc/init/mesos-master.override"
 host="127.0.0.1 localhost
