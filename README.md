@@ -1,38 +1,44 @@
+```bash
 $ git clone https://github.com/quangns/test.git
 
 $ cd test
 
 $ git remote rename origin github
+```
 
 #Tạo file script, viết code & commit
 
+```bash
 $ echo "print 'Hello world!'" > hello_world.py
 
 $ git add hello_world.py
 
 $ git commit -m "Add: Hello world script"
 
-$ git push -u origin master
-
+$ git push -u github master
+```
 #Mấy lệnh git hay dùng
 
-# Lấy code mới về
-
+*Lấy code mới về*
+```bash
 $ git pull --rebase gitlab master
-
-# Push code ở local lên
+```
+*Push code ở local lên*
+```bash
 $ git push origin master
-
-# Xem trạng thái git hiện tại
+```
+*Xem trạng thái git hiện tại*
+```bash
 $ git status
-
-# Xem commit log
+```
+*Xem commit log*
+```bash
 $ git log
-
-# Add các file vào git
+```
+*Add các file vào git*
+```bash
 $ git add --all
-Tham khảo thêm: Git Workflow
-Quy ước viết commit message
+```
 
 Dùng:
 Abc: Message
