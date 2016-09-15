@@ -18,45 +18,6 @@
     - nginx
 
 
-
-
-- name: Copy file reverse
-  become: yes
-  copy: src=/opt/ansible/deploy/roles/nginx/reverse/
-        dest=/etc/nginx/sites-available/reverse
-  tags:
-    - nginx
-
-
-- stat: path=/etc/nginx/sites-enabled/default
-  register: st
-  tags:
-    - nginx
-
-- name: remove file default
-  become: yes
-  become_user: root
-  when: st.stat.exists == true
-  shell: rm /etc/nginx/sites-enabled/default
-  tags:
-    - nginx
-
-
-- name: check file existed
-  stat: path=/etc/nginx/sites-enabled/reverse
-  register: link
-  tags:
-    - nginx
-
-- name: create symbolic link
-  become: yes
-  become_user: root 
-  shell: sudo ln -s /etc/nginx/sites-available/reverse /etc/nginx/sites-enabled/
-  when: link.stat.exists == false
-  tags:
-    - nginx
-
-
 - name: restart nginx
   become: yes
   become_user: root
