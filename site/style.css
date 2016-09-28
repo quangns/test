@@ -5,7 +5,19 @@
 .dautrang a {text-transform: uppercase; color:#fff; text-decoration: none; font-weight: bold;}
 .dautrang a:hover{color: yellow;}
 .dangnhap {background: #8989; height:50px;}
-.diachi {font-weight: bold; color:#000;padding: 15px; float: left;}
-.formdangnhap {width: 400px; float: right; padding: 20px;}
-.formdangnhap input[type=text] {border: 1px solid #fff; background-color: #c7c3c2; height: 25px; width: 150px; padding-left: 10px;}
-.formdangnhap input[type=submit] {border: none; width: 32px; height: 37px; background: url("picture/Ok.png") no-repeat; margin-left: 20px}
+.diachi {font-weight: bold; color:#000;padding-top: 25px; float: left;}
+.formdangnhap {width: 500px; float: right; padding: 15px;}
+.formdangnhap label {padding-left:10px;}
+.formdangnhap input[type=text] {border: 1px solid; border-radius: 4px; background-color: #ffffff; height: 25px; width: 150px; padding-left: 10px;}
+.formdangnhap input[type=submit] {border: none; width: 32px; height: 32px; background: url("picture/Ok.png") no-repeat; margin-left: 20px;}
+.danhmuc{clear: left; border: 1px solid black; background-color: #00FFFF, color: white; height:35px; margin-botton: 10px;}
+.danhmuc ul {padding: 0 ;}
+.danhmuc li {list-style: none; display: inline-block;}
+.left {float: left; width:40%; display: inline-block; display: inline-block; overflow: auto; margin-top:10px }
+.sub_left1{clear:left; float: left; margin-left:20px }
+.sub_left1 a h6:hover{color: blue; }
+.sub_left2{float: left; margin-right:10px; width:40%; margin-left:20px}
+.sub_left3{float: left; width:40%; margin-left:15px }
+.middle {width: 298px; height: auto; float: left; margin-top: 10px;}
+.middle li{margin-top: 10px;}
+.right {float: left; border: 1px dotted black; width: 300px; margin-top:10px}
