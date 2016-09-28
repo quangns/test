@@ -1,21 +1,21 @@
-.khungchinh{width:1000px; background:#ffffff; margin: 0 auto;}
-.dautrang{width: 100%;height: 100px; background: url("picture/trangchu.png") no-repeat}
-.dautrang ul {padding: 30px 0 0 400px;}
+.header {position: fixed; width: 100%; height: 200px; margin-top:0px;}
+.dautrang{width: 100%;height: 100px; background: url("picture/trangchu.png") no-repeat;}
+.dautrang ul {padding: 30px 0 0 400px; margin-left: 300px;}
 .dautrang li {list-style: none; display: inline; padding-left: 30px;}
-.dautrang a {text-transform: uppercase; color:#fff; text-decoration: none; font-weight: bold;}
+.dautrang a{text-transform: uppercase; color: white; text-decoration: none; font-weight: bold;}
+.dautrang a:link{color:white;}
 .dautrang a:hover{color: yellow;}
 .dangnhap {background: #8989; height:50px;}
 .diachi {font-weight: bold; color:#000;padding-top: 25px; float: left;}
-.formdangnhap {width: 500px; float: right; padding: 15px;}
-.formdangnhap label {padding-left:10px;}
-.formdangnhap input[type=text] {border: 1px solid; border-radius: 4px; background-color: #ffffff; height: 25px; width: 150px; padding-left: 10px;}
-.formdangnhap input[type=submit] {border: none; width: 32px; height: 32px; background: url("picture/Ok.png") no-repeat; margin-left: 20px;}
+.formdangnhap {width: 100%; padding: 15px; margin-left: 700px;}
+.formdangnhap input[type=text] {clear: left; border: 1px solid; border-radius: 4px; background-color: #ffffff; height: 25px; width: 150px; padding-right: 10px;}
+.formdangnhap input[type=button] {border-radius: 10px; }
 .danhmuc{clear: left; border: 1px solid black; background-color: #00FFFF, color: white; height:35px; margin-botton: 10px;}
 .danhmuc ul {padding: 0 ;}
 .danhmuc li {list-style: none; display: inline-block;}
+.khungchinh{width:1000px; background:#ffffff; margin: 0 auto;}
 .left {float: left; width:40%; display: inline-block; display: inline-block; overflow: auto; margin-top:10px }
 .sub_left1{clear:left; float: left; margin-left:20px }
-.sub_left1 a h6:hover{color: blue; }
 .sub_left2{float: left; margin-right:10px; width:40%; margin-left:20px}
 .sub_left3{float: left; width:40%; margin-left:15px }
 .middle {width: 298px; height: auto; float: left; margin-top: 10px;}
